@@ -23,7 +23,7 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Track":
-        filters: ["Track"]
+        filters: ["Track", "VOT", "SOT", "VLT", "UOT", "Tracking"]
     "Diffusion":
-        filters: ["Diffusion", "DLLM", "Sora"]
+        filters: ["Diffusion", "DLLM", "Sora", "LLaDA", "Diffusion Language Models", "Diffusion LLM", "Diffusion Large Language Models"]
 
