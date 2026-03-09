@@ -1,4 +1,4 @@
-> Updated on 2026.03.08
+> Updated on 2026.03.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,7 @@
 
 ## Single Object & Visual Language Tracking
 
+- 2026-03-05, **Vertical Structure of Protoplanetary Disks in Scattered Light: A large sample analysis**, J. Byrne et.al., Paper: [http://arxiv.org/abs/2603.05599](http://arxiv.org/abs/2603.05599)
 - 2026-03-05, **EdgeDAM: Real-time Object Tracking for Mobile Devices**, Syed Muhammad Raza et.al., Paper: [http://arxiv.org/abs/2603.05463](http://arxiv.org/abs/2603.05463)
 - 2026-03-05, **Detection of C3 in Titan with VLT-ESPRESSO**, Rafael Rianço-Silva et.al., Paper: [http://arxiv.org/abs/2603.05365](http://arxiv.org/abs/2603.05365)
 - 2026-03-04, **Architecture and evaluation protocol for transformer-based visual object tracking in UAV applications**, Augustin Borne et.al., Paper: [http://arxiv.org/abs/2603.03904](http://arxiv.org/abs/2603.03904)
@@ -2013,10 +2014,30 @@
 - 2021-02-17, **Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**, T. Olander et.al., Paper: [http://arxiv.org/abs/2102.08836](http://arxiv.org/abs/2102.08836)
 - 2021-02-17, **Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**, C. Ginski et.al., Paper: [http://arxiv.org/abs/2102.08781](http://arxiv.org/abs/2102.08781)
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-03-06, **Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**, Lijiang Li et.al., Paper: [http://arxiv.org/abs/2603.06577](http://arxiv.org/abs/2603.06577)
+- 2026-03-06, **A class of d-dimensional directed polymers in a Gaussian environment**, Le Chen et.al., Paper: [http://arxiv.org/abs/2603.06574](http://arxiv.org/abs/2603.06574)
+- 2026-03-06, **NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion**, Taewon Kang et.al., Paper: [http://arxiv.org/abs/2603.06533](http://arxiv.org/abs/2603.06533)
+- 2026-03-06, **Spatial Calibration of Diffuse LiDARs**, Nikhil Behari et.al., Paper: [http://arxiv.org/abs/2603.06531](http://arxiv.org/abs/2603.06531)
+- 2026-03-06, **Lie symmetry method for a nonlinear heat-diffusion equation**, Julieta Bollati et.al., Paper: [http://arxiv.org/abs/2603.06519](http://arxiv.org/abs/2603.06519)
+- 2026-03-06, **Tomographic collective modes in a magnetic field**, Jeff Maki et.al., Paper: [http://arxiv.org/abs/2603.06518](http://arxiv.org/abs/2603.06518)
+- 2026-03-06, **Constraining turbulent solar flare acceleration regions by connecting kinetic modeling and X-ray observations**, Morgan Stores et.al., Paper: [http://arxiv.org/abs/2603.06517](http://arxiv.org/abs/2603.06517)
+- 2026-03-06, **When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**, Qitong Wang et.al., Paper: [http://arxiv.org/abs/2603.06508](http://arxiv.org/abs/2603.06508)
+- 2026-03-06, **Self-Supervised Flow Matching for Scalable Multi-Modal Synthesis**, Hila Chefer et.al., Paper: [http://arxiv.org/abs/2603.06507](http://arxiv.org/abs/2603.06507)
+- 2026-03-06, **Rotation-invariant graph message passing enables acquisition protocol generalisation in learning-based brain microstructure estimation**, Leevi Kerkelä et.al., Paper: [http://arxiv.org/abs/2603.06496](http://arxiv.org/abs/2603.06496)
+- 2026-03-06, **Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics**, Ammar Fayad et.al., Paper: [http://arxiv.org/abs/2603.06488](http://arxiv.org/abs/2603.06488)
+- 2026-03-06, **Pinterest Canvas: Large-Scale Image Generation at Pinterest**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2603.06453](http://arxiv.org/abs/2603.06453)
+- 2026-03-06, **CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization**, Yitong Chen et.al., Paper: [http://arxiv.org/abs/2603.06449](http://arxiv.org/abs/2603.06449)
+- 2026-03-06, **Long-time behaviour of a nonlocal stochastic fractional reaction--diffusion equation arising in tumour dynamics**, Nikos I. Kavallaris et.al., Paper: [http://arxiv.org/abs/2603.06414](http://arxiv.org/abs/2603.06414)
+- 2026-03-06, **Physical Simulator In-the-Loop Video Generation**, Lin Geng Foo et.al., Paper: [http://arxiv.org/abs/2603.06408](http://arxiv.org/abs/2603.06408)
+- 2026-03-06, **DiffInf: Influence-Guided Diffusion for Supervision Alignment in Facial Attribute Learning**, Basudha Pal et.al., Paper: [http://arxiv.org/abs/2603.06399](http://arxiv.org/abs/2603.06399)
+- 2026-03-06, **Efficient, Property-Aligned Fan-Out Retrieval via RL-Compiled Diffusion**, Pengcheng Jiang et.al., Paper: [http://arxiv.org/abs/2603.06397](http://arxiv.org/abs/2603.06397)
+- 2026-03-06, **Generation of Imaging Air Cherenkov Telescope images using Diffusion Models**, Christian Elflein et.al., Paper: [http://arxiv.org/abs/2603.06364](http://arxiv.org/abs/2603.06364)
+- 2026-03-06, **Universal Dynamical Scaling of Strong-to-Weak Spontaneous Symmetry Breaking in Open Quantum Systems**, Chang Shu et.al., Paper: [http://arxiv.org/abs/2603.06363](http://arxiv.org/abs/2603.06363)
+- 2026-03-06, **LATO: 3D Mesh Flow Matching with Structured TOpology Preserving LAtents**, Tianhao Zhao et.al., Paper: [http://arxiv.org/abs/2603.06357](http://arxiv.org/abs/2603.06357)
 - 2026-03-05, **Accelerating Text-to-Video Generation with Calibrated Sparse Attention**, Shai Yehezkel et.al., Paper: [http://arxiv.org/abs/2603.05503](http://arxiv.org/abs/2603.05503)
 - 2026-03-05, **Observing and Controlling Features in Vision-Language-Action Models**, Hugo Buurmeijer et.al., Paper: [http://arxiv.org/abs/2603.05487](http://arxiv.org/abs/2603.05487)
 - 2026-03-05, **A likelihood analysis for gamma-ray background models**, Chance Hoskinson et.al., Paper: [http://arxiv.org/abs/2603.05457](http://arxiv.org/abs/2603.05457)
@@ -4018,10 +4039,30 @@
 - 2026-01-23, **Recovering Riemannian Geometry from Diffusion**, Amandip Sangha et.al., Paper: [http://arxiv.org/abs/2601.17166](http://arxiv.org/abs/2601.17166)
 - 2026-01-27, **iFSQ: Improving FSQ for Image Generation with 1 Line of Code**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2601.17124](http://arxiv.org/abs/2601.17124)
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 ## Multi-modal Learning
 
+- 2026-03-06, **BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2603.06576](http://arxiv.org/abs/2603.06576)
+- 2026-03-06, **Fly360: Omnidirectional Obstacle Avoidance within Drone View**, Xiangkai Zhang et.al., Paper: [http://arxiv.org/abs/2603.06573](http://arxiv.org/abs/2603.06573)
+- 2026-03-06, **SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2603.06572](http://arxiv.org/abs/2603.06572)
+- 2026-03-06, **SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning**, Alejandra Perez et.al., Paper: [http://arxiv.org/abs/2603.06570](http://arxiv.org/abs/2603.06570)
+- 2026-03-06, **Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders**, Boqiang Zhang et.al., Paper: [http://arxiv.org/abs/2603.06569](http://arxiv.org/abs/2603.06569)
+- 2026-03-06, **Data-Driven Trends and Subpopulations in the Gravitational Wave Binary Black Hole Merger Population with UMAP**, A. J. Amsellem et.al., Paper: [http://arxiv.org/abs/2603.06566](http://arxiv.org/abs/2603.06566)
+- 2026-03-06, **Boosting deep Reinforcement Learning using pretraining with Logical Options**, Zihan Ye et.al., Paper: [http://arxiv.org/abs/2603.06565](http://arxiv.org/abs/2603.06565)
+- 2026-03-06, **EgoReasoner: Learning Egocentric 4D Reasoning via Task-Adaptive Structured Thinking**, Fangrui Zhu et.al., Paper: [http://arxiv.org/abs/2603.06561](http://arxiv.org/abs/2603.06561)
+- 2026-03-06, **Hierarchical Industrial Demand Forecasting with Temporal and Uncertainty Explanations**, Harshavardhan Kamarthi et.al., Paper: [http://arxiv.org/abs/2603.06555](http://arxiv.org/abs/2603.06555)
+- 2026-03-06, **Uncertainty-Aware Adaptive Dynamics For Underwater Vehicle-Manipulator Robots**, Edward Morgan et.al., Paper: [http://arxiv.org/abs/2603.06548](http://arxiv.org/abs/2603.06548)
+- 2026-03-06, **LiveSense: A Real-Time Wi-Fi Sensing Platform for Range-Doppler on COTS Laptop**, Jessica Sanson et.al., Paper: [http://arxiv.org/abs/2603.06545](http://arxiv.org/abs/2603.06545)
+- 2026-03-06, **Modeling and Measuring Redundancy in Multisource Multimodal Data for Autonomous Driving**, Yuhan Zhou et.al., Paper: [http://arxiv.org/abs/2603.06544](http://arxiv.org/abs/2603.06544)
+- 2026-03-06, **SurgFormer: Scalable Learning of Organ Deformation with Resection Support and Real-Time Inference**, Ashkan Shahbazi et.al., Paper: [http://arxiv.org/abs/2603.06543](http://arxiv.org/abs/2603.06543)
+- 2026-03-06, **RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering**, Gaia A. Bertolino et.al., Paper: [http://arxiv.org/abs/2603.06542](http://arxiv.org/abs/2603.06542)
+- 2026-03-06, **Unified Learning of Temporal Task Structure and Action Timing for Bimanual Robot Manipulation**, Christian Dreher et.al., Paper: [http://arxiv.org/abs/2603.06538](http://arxiv.org/abs/2603.06538)
+- 2026-03-06, **Adaptive Data-Driven Min-Max MPC for Linear Time-Varying Systems**, Yifan Xie et.al., Paper: [http://arxiv.org/abs/2603.06536](http://arxiv.org/abs/2603.06536)
+- 2026-03-06, **Spatial Calibration of Diffuse LiDARs**, Nikhil Behari et.al., Paper: [http://arxiv.org/abs/2603.06531](http://arxiv.org/abs/2603.06531)
+- 2026-03-06, **AV-Unified: A Unified Framework for Audio-visual Scene Understanding**, Guangyao Li et.al., Paper: [http://arxiv.org/abs/2603.06530](http://arxiv.org/abs/2603.06530)
+- 2026-03-06, **SG-DOR: Learning Scene Graphs with Direction-Conditioned Occlusion Reasoning for Pepper Plants**, Rohit Menon et.al., Paper: [http://arxiv.org/abs/2603.06512](http://arxiv.org/abs/2603.06512)
+- 2026-03-06, **When One Modality Rules Them All: Backdoor Modality Collapse in Multimodal Diffusion Models**, Qitong Wang et.al., Paper: [http://arxiv.org/abs/2603.06508](http://arxiv.org/abs/2603.06508)
 - 2026-03-05, **Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups**, Leif Van Holland et.al., Paper: [http://arxiv.org/abs/2603.05507](http://arxiv.org/abs/2603.05507)
 - 2026-03-05, **Accelerating Text-to-Video Generation with Calibrated Sparse Attention**, Shai Yehezkel et.al., Paper: [http://arxiv.org/abs/2603.05503](http://arxiv.org/abs/2603.05503)
 - 2026-03-05, **Safe-SAGE: Social-Semantic Adaptive Guidance for Safe Engagement through Laplace-Modulated Poisson Safety Functions**, Lizhi Yang et.al., Paper: [http://arxiv.org/abs/2603.05497](http://arxiv.org/abs/2603.05497)
@@ -6023,7 +6064,7 @@
 - 2026-02-26, **Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**, Chengyu Cui et.al., Paper: [http://arxiv.org/abs/2602.22590](http://arxiv.org/abs/2602.22590)
 - 2026-02-26, **TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**, Donghong Cai et.al., Paper: [http://arxiv.org/abs/2602.22586](http://arxiv.org/abs/2602.22586)
 
-<p align=right>(<a href=#updated-on-20260308>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
