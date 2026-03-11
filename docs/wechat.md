@@ -1,4 +1,4 @@
-> Updated on 2026.03.09
+> Updated on 2026.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 ## Single Object & Visual Language Tracking
 
+- 2026-03-09, **Local-Global Prompt Learning via Sparse Optimal Transport**, Deniz Kizaroğlu et.al., Paper: [http://arxiv.org/abs/2603.08347](http://arxiv.org/abs/2603.08347)
+- 2026-03-08, **SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking**, Zixiao Wen et.al., Paper: [http://arxiv.org/abs/2603.07564](http://arxiv.org/abs/2603.07564)
 - 2026-03-05, **Vertical Structure of Protoplanetary Disks in Scattered Light: A large sample analysis**, J. Byrne et.al., Paper: [http://arxiv.org/abs/2603.05599](http://arxiv.org/abs/2603.05599)
 - 2026-03-05, **EdgeDAM: Real-time Object Tracking for Mobile Devices**, Syed Muhammad Raza et.al., Paper: [http://arxiv.org/abs/2603.05463](http://arxiv.org/abs/2603.05463)
 - 2026-03-05, **Detection of C3 in Titan with VLT-ESPRESSO**, Rafael Rianço-Silva et.al., Paper: [http://arxiv.org/abs/2603.05365](http://arxiv.org/abs/2603.05365)
@@ -2014,10 +2016,30 @@
 - 2021-02-17, **Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**, T. Olander et.al., Paper: [http://arxiv.org/abs/2102.08836](http://arxiv.org/abs/2102.08836)
 - 2021-02-17, **Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**, C. Ginski et.al., Paper: [http://arxiv.org/abs/2102.08781](http://arxiv.org/abs/2102.08781)
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-03-10, **When to Lock Attention: Training-Free KV Control in Video Diffusion**, Tianyi Zeng et.al., Paper: [http://arxiv.org/abs/2603.09657](http://arxiv.org/abs/2603.09657)
+- 2026-03-10, **Symbolic Discovery of Stochastic Differential Equations with Genetic Programming**, Sigur de Vries et.al., Paper: [http://arxiv.org/abs/2603.09597](http://arxiv.org/abs/2603.09597)
+- 2026-03-10, **BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers**, Chaodong Xiao et.al., Paper: [http://arxiv.org/abs/2603.09582](http://arxiv.org/abs/2603.09582)
+- 2026-03-10, **SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation**, Milo Carroll et.al., Paper: [http://arxiv.org/abs/2603.09574](http://arxiv.org/abs/2603.09574)
+- 2026-03-10, **Relativistic Corrections to the Formation Rate of Extreme Mass-Ratio Inspirals**, Chen Feng et.al., Paper: [http://arxiv.org/abs/2603.09547](http://arxiv.org/abs/2603.09547)
+- 2026-03-10, **Beyond Short-Horizon: VQ-Memory for Robust Long-Horizon Manipulation in Non-Markovian Simulation Benchmarks**, Wang Honghui et.al., Paper: [http://arxiv.org/abs/2603.09513](http://arxiv.org/abs/2603.09513)
+- 2026-03-10, **Backward problem for a degenerate viscous Hamilton-Jacobi equation: stability and numerical identification**, S. E. Chorfi et.al., Paper: [http://arxiv.org/abs/2603.09509](http://arxiv.org/abs/2603.09509)
+- 2026-03-10, **A Fast Solver for Interpolating Stochastic Differential Equation Diffusion Models for Speech Restoration**, Bunlong Lay et.al., Paper: [http://arxiv.org/abs/2603.09508](http://arxiv.org/abs/2603.09508)
+- 2026-03-10, **Streaming Autoregressive Video Generation via Diagonal Distillation**, Jinxiu Liu et.al., Paper: [http://arxiv.org/abs/2603.09488](http://arxiv.org/abs/2603.09488)
+- 2026-03-10, **Component-Aware Sketch-to-Image Generation Using Self-Attention Encoding and Coordinate-Preserving Fusion**, Ali Zia et.al., Paper: [http://arxiv.org/abs/2603.09484](http://arxiv.org/abs/2603.09484)
+- 2026-03-10, **ShapeMark: Robust and Diversity-Preserving Watermarking for Diffusion Models**, Yuqi Qian et.al., Paper: [http://arxiv.org/abs/2603.09454](http://arxiv.org/abs/2603.09454)
+- 2026-03-10, **From Flow to One Step: Real-Time Multi-Modal Trajectory Policies via Implicit Maximum Likelihood Estimation-based Distribution Distillation**, Ju Dong et.al., Paper: [http://arxiv.org/abs/2603.09415](http://arxiv.org/abs/2603.09415)
+- 2026-03-10, **Reviving ConvNeXt for Efficient Convolutional Diffusion Models**, Taesung Kwon et.al., Paper: [http://arxiv.org/abs/2603.09408](http://arxiv.org/abs/2603.09408)
+- 2026-03-10, **Training-Free Coverless Multi-Image Steganography with Access Control**, Minyeol Bae et.al., Paper: [http://arxiv.org/abs/2603.09390](http://arxiv.org/abs/2603.09390)
+- 2026-03-10, **$Λ$ effect in rotating hydrodynamic convection**, P. J. Käpylä et.al., Paper: [http://arxiv.org/abs/2603.09328](http://arxiv.org/abs/2603.09328)
+- 2026-03-10, **From Ideal to Real: Stable Video Object Removal under Imperfect Conditions**, Jiagao Hu et.al., Paper: [http://arxiv.org/abs/2603.09283](http://arxiv.org/abs/2603.09283)
+- 2026-03-10, **Half-year Evolution of a Decaying Solar Active Region and Peripheral Dimming Regions**, Jiasheng Wang et.al., Paper: [http://arxiv.org/abs/2603.09271](http://arxiv.org/abs/2603.09271)
+- 2026-03-10, **RAE-NWM: Navigation World Model in Dense Visual Representation Space**, Mingkun Zhang et.al., Paper: [http://arxiv.org/abs/2603.09241](http://arxiv.org/abs/2603.09241)
+- 2026-03-10, **Uniform-in-diffusivity mixing by shear flows: stochastic and dynamical perspectives**, Kyle L. Liss et.al., Paper: [http://arxiv.org/abs/2603.09238](http://arxiv.org/abs/2603.09238)
+- 2026-03-10, **BridgeDiff: Bridging Human Observations and Flat-Garment Synthesis for Virtual Try-Off**, Shuang Liu et.al., Paper: [http://arxiv.org/abs/2603.09236](http://arxiv.org/abs/2603.09236)
 - 2026-03-06, **Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion**, Lijiang Li et.al., Paper: [http://arxiv.org/abs/2603.06577](http://arxiv.org/abs/2603.06577)
 - 2026-03-06, **A class of d-dimensional directed polymers in a Gaussian environment**, Le Chen et.al., Paper: [http://arxiv.org/abs/2603.06574](http://arxiv.org/abs/2603.06574)
 - 2026-03-06, **NEGATE: Constrained Semantic Guidance for Linguistic Negation in Text-to-Video Diffusion**, Taewon Kang et.al., Paper: [http://arxiv.org/abs/2603.06533](http://arxiv.org/abs/2603.06533)
@@ -4039,10 +4061,30 @@
 - 2026-01-23, **Recovering Riemannian Geometry from Diffusion**, Amandip Sangha et.al., Paper: [http://arxiv.org/abs/2601.17166](http://arxiv.org/abs/2601.17166)
 - 2026-01-27, **iFSQ: Improving FSQ for Image Generation with 1 Line of Code**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2601.17124](http://arxiv.org/abs/2601.17124)
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 ## Multi-modal Learning
 
+- 2026-03-10, **VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**, Anh Thuan Tran et.al., Paper: [http://arxiv.org/abs/2603.09673](http://arxiv.org/abs/2603.09673)
+- 2026-03-10, **FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**, Boya Zhang et.al., Paper: [http://arxiv.org/abs/2603.09661](http://arxiv.org/abs/2603.09661)
+- 2026-03-10, **Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**, Isabelle Augenstein et.al., Paper: [http://arxiv.org/abs/2603.09654](http://arxiv.org/abs/2603.09654)
+- 2026-03-10, **OTPL-VIO: Robust Visual-Inertial Odometry with Optimal Transport Line Association and Adaptive Uncertainty**, Zikun Chen et.al., Paper: [http://arxiv.org/abs/2603.09653](http://arxiv.org/abs/2603.09653)
+- 2026-03-10, **MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants**, Zuhao Zhang et.al., Paper: [http://arxiv.org/abs/2603.09652](http://arxiv.org/abs/2603.09652)
+- 2026-03-10, **Perceptions and worldviews of Transgender individuals**, Eiji Yamamura et.al., Paper: [http://arxiv.org/abs/2603.09648](http://arxiv.org/abs/2603.09648)
+- 2026-03-10, **MM-tau-p $^2$ : Persona-Adaptive Prompting for Robust Multi-Modal Agent Evaluation in Dual-Control Settings**, Anupam Purwar et.al., Paper: [http://arxiv.org/abs/2603.09643](http://arxiv.org/abs/2603.09643)
+- 2026-03-10, **PRECEPT: Planning Resilience via Experience, Context Engineering & Probing Trajectories A Unified Framework for Test-Time Adaptation with Compositional Rule Learning and Pareto-Guided Prompt Evolution**, Arash Shahmansoori et.al., Paper: [http://arxiv.org/abs/2603.09641](http://arxiv.org/abs/2603.09641)
+- 2026-03-10, **Grounding Synthetic Data Generation With Vision and Language Models**, Ümit Mert Çağlar et.al., Paper: [http://arxiv.org/abs/2603.09625](http://arxiv.org/abs/2603.09625)
+- 2026-03-10, **Decoder-Free Distillation for Quantized Image Restoration**, S. M. A. Sharif et.al., Paper: [http://arxiv.org/abs/2603.09624](http://arxiv.org/abs/2603.09624)
+- 2026-03-10, **Physics-Driven 3D Gaussian Rendering for Zero-Shot MRI Super-Resolution**, Shuting Liu et.al., Paper: [http://arxiv.org/abs/2603.09621](http://arxiv.org/abs/2603.09621)
+- 2026-03-10, **ParTY: Part-Guidance for Expressive Text-to-Motion Synthesis**, KunHo Heo et.al., Paper: [http://arxiv.org/abs/2603.09611](http://arxiv.org/abs/2603.09611)
+- 2026-03-10, **Preparing Students for AI-Driven Agile Development: A Project-Based AI Engineering Curriculum**, Andreas Rausch et.al., Paper: [http://arxiv.org/abs/2603.09599](http://arxiv.org/abs/2603.09599)
+- 2026-03-10, **Build, Borrow, or Just Fine-Tune? A Political Scientist's Guide to Choosing NLP Models**, Shreyas Meher et.al., Paper: [http://arxiv.org/abs/2603.09595](http://arxiv.org/abs/2603.09595)
+- 2026-03-10, **Game-Theoretic Modeling of Stealthy Intrusion Defense against MDP-Based Attackers**, Willie Kouam et.al., Paper: [http://arxiv.org/abs/2603.09587](http://arxiv.org/abs/2603.09587)
+- 2026-03-10, **BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers**, Chaodong Xiao et.al., Paper: [http://arxiv.org/abs/2603.09582](http://arxiv.org/abs/2603.09582)
+- 2026-03-10, **Towards Understanding Adam Convergence on Highly Degenerate Polynomials**, Zhiwei Bai et.al., Paper: [http://arxiv.org/abs/2603.09581](http://arxiv.org/abs/2603.09581)
+- 2026-03-10, **ZX-Flow: A Flexible Criterion for Deterministic Computation with ZX-Diagrams**, Aleks Kissinger et.al., Paper: [http://arxiv.org/abs/2603.09580](http://arxiv.org/abs/2603.09580)
+- 2026-03-10, **Low-Rank Cyclostationarity Predictive Routing Is Almost as Good as Real-Time Data-based Routing**, Oriel-Singer et.al., Paper: [http://arxiv.org/abs/2603.09579](http://arxiv.org/abs/2603.09579)
+- 2026-03-10, **Routing without Forgetting**, Alessio Masano et.al., Paper: [http://arxiv.org/abs/2603.09576](http://arxiv.org/abs/2603.09576)
 - 2026-03-06, **BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations**, Thomas Monninger et.al., Paper: [http://arxiv.org/abs/2603.06576](http://arxiv.org/abs/2603.06576)
 - 2026-03-06, **Fly360: Omnidirectional Obstacle Avoidance within Drone View**, Xiangkai Zhang et.al., Paper: [http://arxiv.org/abs/2603.06573](http://arxiv.org/abs/2603.06573)
 - 2026-03-06, **SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation**, Vishal Thengane et.al., Paper: [http://arxiv.org/abs/2603.06572](http://arxiv.org/abs/2603.06572)
@@ -6064,7 +6106,7 @@
 - 2026-02-26, **Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**, Chengyu Cui et.al., Paper: [http://arxiv.org/abs/2602.22590](http://arxiv.org/abs/2602.22590)
 - 2026-02-26, **TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**, Donghong Cai et.al., Paper: [http://arxiv.org/abs/2602.22586](http://arxiv.org/abs/2602.22586)
 
-<p align=right>(<a href=#updated-on-20260309>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260311>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
