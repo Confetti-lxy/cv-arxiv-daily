@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2026.03.11
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-12**|**Origin and Propagation of Spin-orbit Torques in Pt/Co/Cu/NiFe/Capping Multilayers**|Yuming Bai et.al.|[2603.11843](http://arxiv.org/abs/2603.11843)|null|
+|**2026-03-12**|**Non-volatile Multistate Magnetic Switching via Spin-orbit Torque and Intrinsic Anisotropy**|Fei Ye et.al.|[2603.11656](http://arxiv.org/abs/2603.11656)|null|
+|**2026-03-11**|**Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**|Hao Shi et.al.|[2603.10587](http://arxiv.org/abs/2603.10587)|null|
+|**2026-03-10**|**Field Free Novel Architecture for Spintronic Flash Analog to Digital Converter**|Abin Francis et.al.|[2603.09878](http://arxiv.org/abs/2603.09878)|null|
 |**2026-03-09**|**Local-Global Prompt Learning via Sparse Optimal Transport**|Deniz Kizaroğlu et.al.|[2603.08347](http://arxiv.org/abs/2603.08347)|null|
 |**2026-03-08**|**SiamGM: Siamese Geometry-Aware and Motion-Guided Network for Real-Time Satellite Video Object Tracking**|Zixiao Wen et.al.|[2603.07564](http://arxiv.org/abs/2603.07564)|null|
 |**2026-03-05**|**Vertical Structure of Protoplanetary Disks in Scattered Light: A large sample analysis**|J. Byrne et.al.|[2603.05599](http://arxiv.org/abs/2603.05599)|null|
@@ -24,7 +28,7 @@ layout: default
 |**2026-02-27**|**Age and metallicity of the Milky Way's nuclear star cluster studied at 3 pc from Sagittarius A***|E. Gallego-Cano et.al.|[2602.23904](http://arxiv.org/abs/2602.23904)|null|
 |**2026-02-27**|**UTPTrack: Towards Simple and Unified Token Pruning for Visual Tracking**|Hao Wu et.al.|[2602.23734](http://arxiv.org/abs/2602.23734)|null|
 |**2026-02-24**|**Visual Cooperative Drone Tracking for Open-Path Gas Measurements**|Marius Schaab et.al.|[2602.20768](http://arxiv.org/abs/2602.20768)|null|
-|**2026-02-25**|**Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO**|Camryn Mullin et.al.|[2602.20346](http://arxiv.org/abs/2602.20346)|null|
+|**2026-03-11**|**Time-variable Scattered Light in Herbig Disks Observed with Subaru/SCExAO**|Camryn Mullin et.al.|[2602.20346](http://arxiv.org/abs/2602.20346)|null|
 |**2026-02-23**|**Young system development in a cometary globule: An investigation into the eccentric disk around AT Pyx in terms of planet-formation and interaction with its surrounding environment**|Dan McLachlan et.al.|[2602.19755](http://arxiv.org/abs/2602.19755)|null|
 |**2026-02-22**|**Testing the Spacetime Geometry of Sgr A* with the Relativistic Orbit of S2 star**|Parth Bambhaniya et.al.|[2602.18994](http://arxiv.org/abs/2602.18994)|null|
 |**2026-02-20**|**Modeling of a magnetic field sensor based on spin Hall magnetoresistance**|Syeda Farwa Bukhari et.al.|[2602.18338](http://arxiv.org/abs/2602.18338)|null|
@@ -2017,6 +2021,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Reinforcement Learning for Discounted and Ergodic Control of Diffusion Processes**|Erhan Bayraktar et.al.|[2603.13155](http://arxiv.org/abs/2603.13155)|null|
+|**2026-03-13**|**Ridged Lagrangian Perturbation Theory (RLPT)**|Francisco-Shu Kitaura et.al.|[2603.13106](http://arxiv.org/abs/2603.13106)|null|
+|**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
+|**2026-03-13**|**Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection**|Yunzhuo Chen et.al.|[2603.13070](http://arxiv.org/abs/2603.13070)|null|
+|**2026-03-13**|**Fractals made Practical: Denoising Diffusion as Partitioned Iterated Function Systems**|Ann Dooms et.al.|[2603.13069](http://arxiv.org/abs/2603.13069)|null|
+|**2026-03-13**|**Interpretable Semantic Gradients in SSD: A PCA Sweep Approach and a Case Study on AI Discourse**|Hubert Plisiecki et.al.|[2603.13038](http://arxiv.org/abs/2603.13038)|null|
+|**2026-03-13**|**Purify Once, Edit Freely: Breaking Image Protections under Model Mismatch**|Qichen Zhao et.al.|[2603.13028](http://arxiv.org/abs/2603.13028)|null|
+|**2026-03-13**|**SAW: Toward a Surgical Action World Model via Controllable and Scalable Video Generation**|Sampath Rapuri et.al.|[2603.13024](http://arxiv.org/abs/2603.13024)|null|
+|**2026-03-13**|**Accelerating Stroke MRI with Diffusion Probabilistic Models through Large-Scale Pre-training and Target-Specific Fine-Tuning**|Yamin Arefeen et.al.|[2603.13007](http://arxiv.org/abs/2603.13007)|null|
+|**2026-03-13**|**Dependency-Aware Parallel Decoding via Attention for Diffusion LLMs**|Bumjun Kim et.al.|[2603.12996](http://arxiv.org/abs/2603.12996)|null|
+|**2026-03-13**|**Rapid Identification of Moving Contaminant Sources Through Physics-Based Modelling**|Marco Mattuschka et.al.|[2603.12969](http://arxiv.org/abs/2603.12969)|null|
+|**2026-03-13**|**Editing Away the Evidence: Diffusion-Based Image Manipulation and the Failure Modes of Robust Watermarking**|Qian Qi et.al.|[2603.12949](http://arxiv.org/abs/2603.12949)|null|
+|**2026-03-13**|**A theory of learning data statistics in diffusion models, from easy to hard**|Lorenzo Bardone et.al.|[2603.12901](http://arxiv.org/abs/2603.12901)|null|
+|**2026-03-13**|**Finite Difference Flow Optimization for RL Post-Training of Text-to-Image Models**|David McAllister et.al.|[2603.12893](http://arxiv.org/abs/2603.12893)|null|
+|**2026-03-13**|**Dynamic analysis of refractive index evolution and diffraction properties during single-photon polymerization of photopolymers for micro-optical applications**|Andreas Heinrich et.al.|[2603.12889](http://arxiv.org/abs/2603.12889)|null|
+|**2026-03-13**|**TRACE: Structure-Aware Character Encoding for Robust and Generalizable Document Watermarking**|Jiale Meng et.al.|[2603.12873](http://arxiv.org/abs/2603.12873)|null|
+|**2026-03-13**|**Weak Adversarial Neural Pushforward Method for Fractional Fokker-Planck Equations**|Andrew Qing He et.al.|[2603.12869](http://arxiv.org/abs/2603.12869)|null|
+|**2026-03-13**|**Beyond Imitation: Reinforcement Learning Fine-Tuning for Adaptive Diffusion Navigation Policies**|Junhe Sheng et.al.|[2603.12868](http://arxiv.org/abs/2603.12868)|null|
+|**2026-03-13**|**AoI-FusionNet: Age-Aware Tightly Coupled Fusion of UWB-IMU under Sparse Ranging Conditions**|Tehmina Bibi et.al.|[2603.12849](http://arxiv.org/abs/2603.12849)|null|
+|**2026-03-13**|**Physics-Constrained Diffusion Model for Synthesis of 3D Turbulent Data**|Tianyi Li et.al.|[2603.12834](http://arxiv.org/abs/2603.12834)|null|
 |**2026-03-10**|**When to Lock Attention: Training-Free KV Control in Video Diffusion**|Tianyi Zeng et.al.|[2603.09657](http://arxiv.org/abs/2603.09657)|null|
 |**2026-03-10**|**Symbolic Discovery of Stochastic Differential Equations with Genetic Programming**|Sigur de Vries et.al.|[2603.09597](http://arxiv.org/abs/2603.09597)|null|
 |**2026-03-10**|**BinaryAttention: One-Bit QK-Attention for Vision and Diffusion Transformers**|Chaodong Xiao et.al.|[2603.09582](http://arxiv.org/abs/2603.09582)|null|
@@ -4062,6 +4086,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Resource-efficient Quantum Algorithms for Selected Hamiltonian Subspace Diagonalization**|Vincent Graves et.al.|[2603.13160](http://arxiv.org/abs/2603.13160)|null|
+|**2026-03-13**|**ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation**|Siqi Sun et.al.|[2603.13154](http://arxiv.org/abs/2603.13154)|null|
+|**2026-03-13**|**Determination of Nuclear PDFs using Markov Chain Monte Carlo Methods**|N. Derakhshanian et.al.|[2603.13150](http://arxiv.org/abs/2603.13150)|null|
+|**2026-03-13**|**Asymptotic non-Hermitian degeneracy phenomenon and its exactly solvable simulation**|Miloslav Znojil et.al.|[2603.13141](http://arxiv.org/abs/2603.13141)|null|
+|**2026-03-13**|**Unifying Decision Making and Trajectory Planning in Automated Driving through Time-Varying Potential Fields**|David Costa et.al.|[2603.13136](http://arxiv.org/abs/2603.13136)|null|
+|**2026-03-13**|**When Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO**|Yu Li et.al.|[2603.13134](http://arxiv.org/abs/2603.13134)|null|
+|**2026-03-13**|**DecoVLN: Decoupling Observation, Reasoning, and Correction for Vision-and-Language Navigation**|Zihao Xin et.al.|[2603.13133](http://arxiv.org/abs/2603.13133)|null|
+|**2026-03-13**|**Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation**|Zhengwei Xie et.al.|[2603.13131](http://arxiv.org/abs/2603.13131)|null|
+|**2026-03-13**|**Geometry-Guided Camera Motion Understanding in VideoLLMs**|Haoan Feng et.al.|[2603.13119](http://arxiv.org/abs/2603.13119)|null|
+|**2026-03-13**|**AgentRM: An OS-Inspired Resource Manager for LLM Agent Systems**|Jianshu She et.al.|[2603.13110](http://arxiv.org/abs/2603.13110)|null|
+|**2026-03-13**|**Panoramic Multimodal Semantic Occupancy Prediction for Quadruped Robots**|Guoqiang Zhao et.al.|[2603.13108](http://arxiv.org/abs/2603.13108)|null|
+|**2026-03-13**|**Evaluating VLMs' Spatial Reasoning Over Robot Motion: A Step Towards Robot Planning with Motion Preferences**|Wenxi Wu et.al.|[2603.13100](http://arxiv.org/abs/2603.13100)|null|
+|**2026-03-13**|**Beyond Final Answers: CRYSTAL Benchmark for Transparent Multimodal Reasoning Evaluation**|Wayner Barrios et.al.|[2603.13099](http://arxiv.org/abs/2603.13099)|null|
+|**2026-03-13**|**SldprtNet: A Large-Scale Multimodal Dataset for CAD Generation in Language-Driven 3D Design**|Ruogu Li et.al.|[2603.13098](http://arxiv.org/abs/2603.13098)|null|
+|**2026-03-13**|**Goal-Oriented Learning at the Edge: Graph Neural Networks Over-the-Air for Blockage Prediction**|Lorenzo Mario Amorosa et.al.|[2603.13094](http://arxiv.org/abs/2603.13094)|null|
+|**2026-03-13**|**Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors**|Wei W. Xing et.al.|[2603.13092](http://arxiv.org/abs/2603.13092)|null|
+|**2026-03-13**|**Reasoning over Video: Evaluating How MLLMs Extract, Integrate, and Reconstruct Spatiotemporal Evidence**|Seunghwan Bang et.al.|[2603.13091](http://arxiv.org/abs/2603.13091)|null|
+|**2026-03-13**|**Influence Malleability in Linearized Attention: Dual Implications of Non-Convergent NTK Dynamics**|Jose Marie Antonio Miñoza et.al.|[2603.13085](http://arxiv.org/abs/2603.13085)|null|
+|**2026-03-13**|**InterEdit: Navigating Text-Guided Multi-Human 3D Motion Editing**|Yebin Yang et.al.|[2603.13082](http://arxiv.org/abs/2603.13082)|null|
+|**2026-03-13**|**exoALMA. XXIV. Formaldehyde Emission in Protoplanetary Disks of exoALMA Compared with Their Properties and Dynamical State**|Felipe Alarcón et.al.|[2603.13081](http://arxiv.org/abs/2603.13081)|null|
 |**2026-03-10**|**VarSplat: Uncertainty-aware 3D Gaussian Splatting for Robust RGB-D SLAM**|Anh Thuan Tran et.al.|[2603.09673](http://arxiv.org/abs/2603.09673)|null|
 |**2026-03-10**|**FreqCycle: A Multi-Scale Time-Frequency Analysis Method for Time Series Forecasting**|Boya Zhang et.al.|[2603.09661](http://arxiv.org/abs/2603.09661)|null|
 |**2026-03-10**|**Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge: A keynote at ECIR 2025**|Isabelle Augenstein et.al.|[2603.09654](http://arxiv.org/abs/2603.09654)|null|
