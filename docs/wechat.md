@@ -1,4 +1,4 @@
-> Updated on 2026.03.21
+> Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 ## Single Object & Visual Language Tracking
 
+- 2026-03-24, **CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**, Youzhi Liu et.al., Paper: [http://arxiv.org/abs/2603.22846](http://arxiv.org/abs/2603.22846)
+- 2026-03-23, **Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c**, Chloe Lawlor et.al., Paper: [http://arxiv.org/abs/2603.22085](http://arxiv.org/abs/2603.22085)
 - 2026-03-17, **FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**, Soudabeh Mohammadhashemi et.al., Paper: [http://arxiv.org/abs/2603.17201](http://arxiv.org/abs/2603.17201)
 - 2026-03-17, **Optical outburst evolution of the transient black hole X-ray binary Swift J1727.8-1613: Disc response to jet ejections and late-outburst emergence of powerful disc winds**, N. Castro Segura et.al., Paper: [http://arxiv.org/abs/2603.17023](http://arxiv.org/abs/2603.17023)
 - 2026-03-15, **CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports**, Peng Ren et.al., Paper: [http://arxiv.org/abs/2603.14605](http://arxiv.org/abs/2603.14605)
@@ -2025,10 +2027,30 @@
 - 2021-02-17, **Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**, T. Olander et.al., Paper: [http://arxiv.org/abs/2102.08836](http://arxiv.org/abs/2102.08836)
 - 2021-02-17, **Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**, C. Ginski et.al., Paper: [http://arxiv.org/abs/2102.08781](http://arxiv.org/abs/2102.08781)
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-03-25, **Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**, Soufiane Bentout et.al., Paper: [http://arxiv.org/abs/2603.24368](http://arxiv.org/abs/2603.24368)
+- 2026-03-25, **Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**, Ian Störmer et.al., Paper: [http://arxiv.org/abs/2603.24360](http://arxiv.org/abs/2603.24360)
+- 2026-03-25, **Generative Artificial Intelligence and the Knowledge Gap: Toward a New Form of Informational Inequality**, Raphael Morisco et.al., Paper: [http://arxiv.org/abs/2603.24335](http://arxiv.org/abs/2603.24335)
+- 2026-03-25, **A High-Order Finite Volume GENO Scheme with Implicit Time Integration for Three-Temperature Radiation Diffusion Equations**, Fengxiang Zhao et.al., Paper: [http://arxiv.org/abs/2603.24314](http://arxiv.org/abs/2603.24314)
+- 2026-03-25, **TopoMesh: High-Fidelity Mesh Autoencoding via Topological Unification**, Guan Luo et.al., Paper: [http://arxiv.org/abs/2603.24278](http://arxiv.org/abs/2603.24278)
+- 2026-03-25, **ScrollScape: Unlocking 32K Image Generation With Video Diffusion Priors**, Haodong Yu et.al., Paper: [http://arxiv.org/abs/2603.24270](http://arxiv.org/abs/2603.24270)
+- 2026-03-25, **Accelerating Diffusion-based Video Editing via Heterogeneous Caching: Beyond Full Computing at Sampled Denoising Timestep**, Tianyi Liu et.al., Paper: [http://arxiv.org/abs/2603.24260](http://arxiv.org/abs/2603.24260)
+- 2026-03-25, **Green's Function Framework for Boundary Value Problems with the Regularized Prabhakar Fractional Derivative**, Erkinjon Karimov et.al., Paper: [http://arxiv.org/abs/2603.24252](http://arxiv.org/abs/2603.24252)
+- 2026-03-25, **InstanceRSR: Real-World Super-Resolution via Instance-Aware Representation Alignment**, Zixin Guo et.al., Paper: [http://arxiv.org/abs/2603.24240](http://arxiv.org/abs/2603.24240)
+- 2026-03-25, **Diffusion coefficients of multi-principal element alloys from first principles**, Damien K. J. Lee et.al., Paper: [http://arxiv.org/abs/2603.24228](http://arxiv.org/abs/2603.24228)
+- 2026-03-25, **Quantum Neural Physics: Solving Partial Differential Equations on Quantum Simulators using Quantum Convolutional Neural Networks**, Jucai Zhai et.al., Paper: [http://arxiv.org/abs/2603.24196](http://arxiv.org/abs/2603.24196)
+- 2026-03-25, **Gas dynamics around dust asymmetries in turbulent disks**, Lizxandra Flores-Rivera et.al., Paper: [http://arxiv.org/abs/2603.24184](http://arxiv.org/abs/2603.24184)
+- 2026-03-25, **The Spectral Domain Snell Law in Diffusion-Wave Fields**, Pengfei Zhu et.al., Paper: [http://arxiv.org/abs/2603.24094](http://arxiv.org/abs/2603.24094)
+- 2026-03-25, **LGTM: Training-Free Light-Guided Text-to-Image Diffusion Model via Initial Noise Manipulation**, Ryugo Morita et.al., Paper: [http://arxiv.org/abs/2603.24086](http://arxiv.org/abs/2603.24086)
+- 2026-03-25, **When Understanding Becomes a Risk: Authenticity and Safety Risks in the Emerging Image Generation Paradigm**, Ye Leng et.al., Paper: [http://arxiv.org/abs/2603.24079](http://arxiv.org/abs/2603.24079)
+- 2026-03-25, **PosterIQ: A Design Perspective Benchmark for Poster Understanding and Generation**, Yuheng Feng et.al., Paper: [http://arxiv.org/abs/2603.24078](http://arxiv.org/abs/2603.24078)
+- 2026-03-25, **Elliptic PDEs on log-Gaussian Shapes: Sparsity and Finite Element Discretization**, Dinh Dũng et.al., Paper: [http://arxiv.org/abs/2603.24056](http://arxiv.org/abs/2603.24056)
+- 2026-03-25, **Multi-filament coordination rescues active transport from inertia-induced spinning arrest**, Anuradha Rajput et.al., Paper: [http://arxiv.org/abs/2603.24053](http://arxiv.org/abs/2603.24053)
+- 2026-03-25, **HAM: A Training-Free Style Transfer Approach via Heterogeneous Attention Modulation for Diffusion Models**, Yeqi He et.al., Paper: [http://arxiv.org/abs/2603.24043](http://arxiv.org/abs/2603.24043)
+- 2026-03-25, **Self-organized pattern synchronization modulated by stochasticity in coupled plankton ecosystems**, Ju Kang et.al., Paper: [http://arxiv.org/abs/2603.24000](http://arxiv.org/abs/2603.24000)
 - 2026-03-19, **Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**, Xianjin Wu et.al., Paper: [http://arxiv.org/abs/2603.19235](http://arxiv.org/abs/2603.19235)
 - 2026-03-19, **Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens**, Yuqing Wang et.al., Paper: [http://arxiv.org/abs/2603.19232](http://arxiv.org/abs/2603.19232)
 - 2026-03-19, **Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer**, Chenyang Gu et.al., Paper: [http://arxiv.org/abs/2603.19227](http://arxiv.org/abs/2603.19227)
@@ -4110,10 +4132,30 @@
 - 2026-01-23, **Recovering Riemannian Geometry from Diffusion**, Amandip Sangha et.al., Paper: [http://arxiv.org/abs/2601.17166](http://arxiv.org/abs/2601.17166)
 - 2026-01-27, **iFSQ: Improving FSQ for Image Generation with 1 Line of Code**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2601.17124](http://arxiv.org/abs/2601.17124)
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 ## Multi-modal Learning
 
+- 2026-03-25, **Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**, Baidong Wu et.al., Paper: [http://arxiv.org/abs/2603.24371](http://arxiv.org/abs/2603.24371)
+- 2026-03-25, **Adaptive decision-making for stochastic service network design**, Javier Duran Micco et.al., Paper: [http://arxiv.org/abs/2603.24369](http://arxiv.org/abs/2603.24369)
+- 2026-03-25, **CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**, Yifeng Zhang et.al., Paper: [http://arxiv.org/abs/2603.24366](http://arxiv.org/abs/2603.24366)
+- 2026-03-25, **Shape Optimization for the Principal Eigenvalue of the Pucci Operator in Three Dimensions**, Mohan Mallick et.al., Paper: [http://arxiv.org/abs/2603.24362](http://arxiv.org/abs/2603.24362)
+- 2026-03-25, **LATS: Large Language Model Assisted Teacher-Student Framework for Multi-Agent Reinforcement Learning in Traffic Signal Control**, Yifeng Zhang et.al., Paper: [http://arxiv.org/abs/2603.24361](http://arxiv.org/abs/2603.24361)
+- 2026-03-25, **A Neuro-Symbolic System for Interpretable Multimodal Physiological Signals Integration in Human Fatigue Detection**, Mohammadreza Jamalifard et.al., Paper: [http://arxiv.org/abs/2603.24358](http://arxiv.org/abs/2603.24358)
+- 2026-03-25, **A Metric for Three-Dimensional Color Discrimination Derived from V1 Population Fisher Information**, Michael Menke et.al., Paper: [http://arxiv.org/abs/2603.24356](http://arxiv.org/abs/2603.24356)
+- 2026-03-25, **Language-Guided Structure-Aware Network for Camouflaged Object Detection**, Min Zhang et.al., Paper: [http://arxiv.org/abs/2603.24355](http://arxiv.org/abs/2603.24355)
+- 2026-03-25, **Four-point correlation numbers in super Minimal Liouville Gravity in the Ramond sector**, Vladimir Belavin et.al., Paper: [http://arxiv.org/abs/2603.24354](http://arxiv.org/abs/2603.24354)
+- 2026-03-25, **Enhancing Efficiency and Performance in Deepfake Audio Detection through Neuron-level dropin & Neuroplasticity Mechanisms**, Yupei Li et.al., Paper: [http://arxiv.org/abs/2603.24343](http://arxiv.org/abs/2603.24343)
+- 2026-03-25, **Restoring missing low scattering angle data in two-dimensional diffraction patterns of isolated molecules**, Yanwei Xiong et.al., Paper: [http://arxiv.org/abs/2603.24334](http://arxiv.org/abs/2603.24334)
+- 2026-03-25, **GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents**, Yunzhe Wang et.al., Paper: [http://arxiv.org/abs/2603.24329](http://arxiv.org/abs/2603.24329)
+- 2026-03-25, **Towards Semantic-based Agent Communication Networks: Vision, Technologies, and Challenges**, Ping Zhang et.al., Paper: [http://arxiv.org/abs/2603.24328](http://arxiv.org/abs/2603.24328)
+- 2026-03-25, **Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens**, Ciem Cornelissen et.al., Paper: [http://arxiv.org/abs/2603.24327](http://arxiv.org/abs/2603.24327)
+- 2026-03-25, **Boosting Document Parsing Efficiency and Performance with Coarse-to-Fine Visual Processing**, Cheng Cui et.al., Paper: [http://arxiv.org/abs/2603.24326](http://arxiv.org/abs/2603.24326)
+- 2026-03-25, **Large Language Model Guided Incentive Aware Reward Design for Cooperative Multi-Agent Reinforcement Learning**, Dogan Urgun et.al., Paper: [http://arxiv.org/abs/2603.24324](http://arxiv.org/abs/2603.24324)
+- 2026-03-25, **Heuristic Self-Paced Learning for Domain Adaptive Semantic Segmentation under Adverse Conditions**, Shiqin Wang et.al., Paper: [http://arxiv.org/abs/2603.24322](http://arxiv.org/abs/2603.24322)
+- 2026-03-25, **Automatic LbL-LPE Spin-Coating Strategy for the Fabrication of Highly Oriented Mixed-Linker MOF Thin Films for Orientation-Dependent Applications**, Eleonora Afanasenko et.al., Paper: [http://arxiv.org/abs/2603.24320](http://arxiv.org/abs/2603.24320)
+- 2026-03-25, **Refining time-space traffic diagrams: A neighborhood-adaptive linear regression method**, Zhihong Yao et.al., Paper: [http://arxiv.org/abs/2603.24312](http://arxiv.org/abs/2603.24312)
+- 2026-03-25, **The Riemannian Landing Method: From projected gradient flows to SQP**, Florentin Goyens et.al., Paper: [http://arxiv.org/abs/2603.24309](http://arxiv.org/abs/2603.24309)
 - 2026-03-19, **Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding**, Xianjin Wu et.al., Paper: [http://arxiv.org/abs/2603.19235](http://arxiv.org/abs/2603.19235)
 - 2026-03-19, **Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models**, Bryce Grant et.al., Paper: [http://arxiv.org/abs/2603.19233](http://arxiv.org/abs/2603.19233)
 - 2026-03-19, **MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction**, Haitian Li et.al., Paper: [http://arxiv.org/abs/2603.19231](http://arxiv.org/abs/2603.19231)
@@ -6195,7 +6237,7 @@
 - 2026-02-26, **Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**, Chengyu Cui et.al., Paper: [http://arxiv.org/abs/2602.22590](http://arxiv.org/abs/2602.22590)
 - 2026-02-26, **TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**, Donghong Cai et.al., Paper: [http://arxiv.org/abs/2602.22586](http://arxiv.org/abs/2602.22586)
 
-<p align=right>(<a href=#updated-on-20260321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
