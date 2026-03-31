@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**|Pengzhi Zhong et.al.|[2603.27493](http://arxiv.org/abs/2603.27493)|null|
+|**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
+|**2026-03-27**|**The Stellar IMF and Dark Matter Halo of ESO0286: Constraints from Strong Lensing and Dynamics**|Han Wang et.al.|[2603.26894](http://arxiv.org/abs/2603.26894)|null|
+|**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
+|**2026-03-25**|**SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program I. Analysis of the close surroundings of DI companions**|Cecilia Lazzoni et.al.|[2603.24796](http://arxiv.org/abs/2603.24796)|null|
+|**2026-03-25**|**The VLT/ERIS grating vector Apodizing Phase Plate coronagraph**|M. A. Kenworthy et.al.|[2603.24469](http://arxiv.org/abs/2603.24469)|null|
 |**2026-03-24**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846](http://arxiv.org/abs/2603.22846)|null|
 |**2026-03-23**|**Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c**|Chloe Lawlor et.al.|[2603.22085](http://arxiv.org/abs/2603.22085)|null|
 |**2026-03-17**|**FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**|Soudabeh Mohammadhashemi et.al.|[2603.17201](http://arxiv.org/abs/2603.17201)|null|
@@ -2029,12 +2035,32 @@
 |**2021-02-17**|**Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**|T. Olander et.al.|[2102.08836](http://arxiv.org/abs/2102.08836)|null|
 |**2021-02-17**|**Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**|C. Ginski et.al.|[2102.08781](http://arxiv.org/abs/2102.08781)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**Explicit relaxation Particle-in-Cell methods for Vlasov-Poisson equations with a strong magnetic field**|Lina Wang et.al.|[2603.27652](http://arxiv.org/abs/2603.27652)|null|
+|**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
+|**2026-03-29**|**OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation**|Sanghyeon Lee et.al.|[2603.27637](http://arxiv.org/abs/2603.27637)|null|
+|**2026-03-29**|**The spectrum of the stochastic Bessel operator at high temperature**|Laure Dumaz et.al.|[2603.27602](http://arxiv.org/abs/2603.27602)|null|
+|**2026-03-29**|**You Only Erase Once: Erasing Anything without Bringing Unexpected Content**|Yixing Zhu et.al.|[2603.27599](http://arxiv.org/abs/2603.27599)|null|
+|**2026-03-29**|**STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding**|Junho Kim et.al.|[2603.27593](http://arxiv.org/abs/2603.27593)|null|
+|**2026-03-29**|**SPREAD: Spatial-Physical REasoning via geometry Aware Diffusion**|Minzhang Li et.al.|[2603.27573](http://arxiv.org/abs/2603.27573)|null|
+|**2026-03-29**|**Homothetic Hodge $-$ de Rham Theory and a Geometric Regularization of Elliptic Boundary Value Problems**|Fereidoun Sabetghadam et.al.|[2603.27564](http://arxiv.org/abs/2603.27564)|null|
+|**2026-03-29**|**PANDORA: Pixel-wise Attention Dissolution and Latent Guidance for Zero-Shot Object Removal**|Dinh-Khoi Vo et.al.|[2603.27555](http://arxiv.org/abs/2603.27555)|null|
+|**2026-03-29**|**SPROUT: A Scalable Diffusion Foundation Model for Agricultural Vision**|Shuai Xiang et.al.|[2603.27519](http://arxiv.org/abs/2603.27519)|null|
+|**2026-03-29**|**Learnable Viscosity Modulation in Physics-Informed Neural Networks for Incompressible Flow Reconstruction**|Ke Xu et.al.|[2603.27496](http://arxiv.org/abs/2603.27496)|null|
+|**2026-03-29**|**Quantitative mapping of dynamic 3D transport in growing cells via volumetric spatio-temporal image correlation spectroscopy (vSTICS)**|Ahmad Mahmood et.al.|[2603.27484](http://arxiv.org/abs/2603.27484)|null|
+|**2026-03-29**|**Twist-Angle Engineering of Moiré Potentials for High-Performance Ionics in Bilayer Graphene**|Gen Fukuzawa et.al.|[2603.27453](http://arxiv.org/abs/2603.27453)|null|
+|**2026-03-29**|**FlowRL: A Taxonomy and Modular Framework for Reinforcement Learning with Diffusion Policies**|Chenxiao Gao et.al.|[2603.27450](http://arxiv.org/abs/2603.27450)|null|
+|**2026-03-28**|**Communication-Induced Bifurcation and Collective Dynamics in Power Packet Networks: A Thermodynamic Approach to Information-Constrained Energy Grids**|Takashi Hikihara et.al.|[2603.27446](http://arxiv.org/abs/2603.27446)|null|
+|**2026-03-28**|**Shear-induced self-diffusivity in dilute suspensions with repulsive interactions**|Anu V S Nath et.al.|[2603.27396](http://arxiv.org/abs/2603.27396)|null|
+|**2026-03-28**|**HMPDM: A Diffusion Model for Driving Video Prediction with Historical Motion Priors**|Ke Li et.al.|[2603.27371](http://arxiv.org/abs/2603.27371)|null|
 |**2026-03-25**|**Long-time dynamics and threshold Phenomena for a free-boundary SIS Model with asymmetric kernels in advective periodic environments**|Soufiane Bentout et.al.|[2603.24368](http://arxiv.org/abs/2603.24368)|null|
 |**2026-03-25**|**Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations**|Ian Störmer et.al.|[2603.24360](http://arxiv.org/abs/2603.24360)|null|
 |**2026-03-25**|**Generative Artificial Intelligence and the Knowledge Gap: Toward a New Form of Informational Inequality**|Raphael Morisco et.al.|[2603.24335](http://arxiv.org/abs/2603.24335)|null|
@@ -4136,12 +4162,32 @@
 |**2026-01-23**|**Recovering Riemannian Geometry from Diffusion**|Amandip Sangha et.al.|[2601.17166](http://arxiv.org/abs/2601.17166)|null|
 |**2026-01-27**|**iFSQ: Improving FSQ for Image Generation with 1 Line of Code**|Bin Lin et.al.|[2601.17124](http://arxiv.org/abs/2601.17124)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 ## Multi-modal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
+|**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
+|**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
+|**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
+|**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
+|**2026-03-29**|**A Benchmarking Methodology to Assess Open-Source Video Large Language Models in Automatic Captioning of News Videos**|David Miranda Paredes et.al.|[2603.27662](http://arxiv.org/abs/2603.27662)|null|
+|**2026-03-29**|**Amped: Adaptive Multi-stage Non-edge Pruning for Edge Detection**|Yuhan Gao et.al.|[2603.27661](http://arxiv.org/abs/2603.27661)|null|
+|**2026-03-29**|**A Tale of Two Jets: Double Relativistic Outflows from Close Binary GRB Progenitors**|He Gao et.al.|[2603.27660](http://arxiv.org/abs/2603.27660)|null|
+|**2026-03-29**|**The Degree of Language Diacriticity and Its Effect on Tasks**|Adi Cohen et.al.|[2603.27653](http://arxiv.org/abs/2603.27653)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
+|**2026-03-29**|**PRBench: End-to-end Paper Reproduction in Physics Research**|Shi Qiu et.al.|[2603.27646](http://arxiv.org/abs/2603.27646)|null|
+|**2026-03-29**|**OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery**|Qi Guo et.al.|[2603.27645](http://arxiv.org/abs/2603.27645)|null|
+|**2026-03-29**|**Optimising Blockchain Scalability for Real-Time IoT Applications**|Hasan Mahmud Rhidoy et.al.|[2603.27643](http://arxiv.org/abs/2603.27643)|null|
+|**2026-03-29**|**OPRO: Orthogonal Panel-Relative Operators for Panel-Aware In-Context Image Generation**|Sanghyeon Lee et.al.|[2603.27637](http://arxiv.org/abs/2603.27637)|null|
+|**2026-03-29**|**Adapting AI to the Moment: Understanding the Dynamics of Parent-AI Collaboration Modes in Real-Time Conversations with Children**|Yu Mei et.al.|[2603.27633](http://arxiv.org/abs/2603.27633)|null|
+|**2026-03-29**|**ContraMap: Contrastive Uncertainty Mapping for Robot Environment Representation**|Chi Cuong Le et.al.|[2603.27632](http://arxiv.org/abs/2603.27632)|null|
+|**2026-03-29**|**DSevolve: Enabling Real-Time Adaptive Scheduling on Dynamic Shop Floor with LLM-Evolved Heuristic Portfolios**|Jin Huang et.al.|[2603.27628](http://arxiv.org/abs/2603.27628)|null|
+|**2026-03-29**|**Umwelt Engineering: Designing the Cognitive Worlds of Linguistic Agents**|Rodney Jehu-Appiah et.al.|[2603.27626](http://arxiv.org/abs/2603.27626)|null|
+|**2026-03-29**|**Expert Streaming: Accelerating Low-Batch MoE Inference via Multi-chiplet Architecture and Dynamic Expert Trajectory Scheduling**|Songchen Ma et.al.|[2603.27624](http://arxiv.org/abs/2603.27624)|null|
+|**2026-03-29**|**$\texttt{Exoformer}$ : Accelerating Bayesian atmospheric retrievals with transformer neural networks**|L. Pagliaro et.al.|[2603.27623](http://arxiv.org/abs/2603.27623)|null|
 |**2026-03-25**|**Shape-Dependent, Deep-Learning-Assisted Metamaterial Solid Immersion Lens (mSIL) Super-Resolution Imaging**|Baidong Wu et.al.|[2603.24371](http://arxiv.org/abs/2603.24371)|null|
 |**2026-03-25**|**Adaptive decision-making for stochastic service network design**|Javier Duran Micco et.al.|[2603.24369](http://arxiv.org/abs/2603.24369)|null|
 |**2026-03-25**|**CoordLight: Learning Decentralized Coordination for Network-Wide Traffic Signal Control**|Yifeng Zhang et.al.|[2603.24366](http://arxiv.org/abs/2603.24366)|null|
@@ -6243,7 +6289,7 @@
 |**2026-02-26**|**Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**|Chengyu Cui et.al.|[2602.22590](http://arxiv.org/abs/2602.22590)|null|
 |**2026-02-26**|**TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**|Donghong Cai et.al.|[2602.22586](http://arxiv.org/abs/2602.22586)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
