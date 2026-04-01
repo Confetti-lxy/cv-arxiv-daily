@@ -1,4 +1,4 @@
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,13 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-30**|**A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**|Alberto Torralba et.al.|[2603.28335](http://arxiv.org/abs/2603.28335)|null|
+|**2026-03-29**|**Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking**|Dexing Huang et.al.|[2603.27913](http://arxiv.org/abs/2603.27913)|null|
 |**2026-03-29**|**Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**|Pengzhi Zhong et.al.|[2603.27493](http://arxiv.org/abs/2603.27493)|null|
 |**2026-03-28**|**Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-03-27**|**The Stellar IMF and Dark Matter Halo of ESO0286: Constraints from Strong Lensing and Dynamics**|Han Wang et.al.|[2603.26894](http://arxiv.org/abs/2603.26894)|null|
 |**2026-03-27**|**Beyond MACs: Hardware Efficient Architecture Design for Vision Backbones**|Moritz Nottebaum et.al.|[2603.26551](http://arxiv.org/abs/2603.26551)|null|
 |**2026-03-25**|**SaNDi-SHoP: Searching for Satellites'N'Disks with a Star-Hopping Program I. Analysis of the close surroundings of DI companions**|Cecilia Lazzoni et.al.|[2603.24796](http://arxiv.org/abs/2603.24796)|null|
 |**2026-03-25**|**The VLT/ERIS grating vector Apodizing Phase Plate coronagraph**|M. A. Kenworthy et.al.|[2603.24469](http://arxiv.org/abs/2603.24469)|null|
-|**2026-03-24**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846](http://arxiv.org/abs/2603.22846)|null|
+|**2026-03-31**|**CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models**|Youzhi Liu et.al.|[2603.22846](http://arxiv.org/abs/2603.22846)|null|
 |**2026-03-23**|**Direct spectroscopic confirmation of the young embedded proto-planet WISPIT 2c**|Chloe Lawlor et.al.|[2603.22085](http://arxiv.org/abs/2603.22085)|null|
 |**2026-03-17**|**FastLoop: Parallel Loop Closing with GPU-Acceleration in Visual SLAM**|Soudabeh Mohammadhashemi et.al.|[2603.17201](http://arxiv.org/abs/2603.17201)|null|
 |**2026-03-17**|**Optical outburst evolution of the transient black hole X-ray binary Swift J1727.8-1613: Disc response to jet ejections and late-outburst emergence of powerful disc winds**|N. Castro Segura et.al.|[2603.17023](http://arxiv.org/abs/2603.17023)|null|
@@ -2035,12 +2037,32 @@
 |**2021-02-17**|**Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**|T. Olander et.al.|[2102.08836](http://arxiv.org/abs/2102.08836)|null|
 |**2021-02-17**|**Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**|C. Ginski et.al.|[2102.08781](http://arxiv.org/abs/2102.08781)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Diffusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Option Pricing on Automated Market Maker Tokens**|Philip Z. Maymin et.al.|[2603.29763](http://arxiv.org/abs/2603.29763)|null|
+|**2026-03-31**|**SHIFT: Stochastic Hidden-Trajectory Deflection for Removing Diffusion-based Watermark**|Rui Bao et.al.|[2603.29742](http://arxiv.org/abs/2603.29742)|null|
+|**2026-03-31**|**Editing on the Generative Manifold: A Theoretical and Empirical Study of General Diffusion-Based Image Editing Trade-offs**|Yi Hu et.al.|[2603.29736](http://arxiv.org/abs/2603.29736)|null|
+|**2026-03-31**|**GRVS: a Generalizable and Recurrent Approach to Monocular Dynamic View Synthesis**|Thomas Tanay et.al.|[2603.29734](http://arxiv.org/abs/2603.29734)|null|
+|**2026-03-31**|**Fragmented Movements, Connected Opponents: Analyzing the Interconnectivity of Firms and Environmental Justice Organizations in Global Socio-Environmental Conflicts**|Dario Cottafava et.al.|[2603.29722](http://arxiv.org/abs/2603.29722)|null|
+|**2026-03-31**|**SCORE: Statistical Certification of Regions of Attraction via Extreme Value Theory**|Pietro Zanotta et.al.|[2603.29658](http://arxiv.org/abs/2603.29658)|null|
+|**2026-03-31**|**Multi-hierarchy simulation of Riemann problem for reconnection exhausts**|Keita Akutagawa et.al.|[2603.29638](http://arxiv.org/abs/2603.29638)|null|
+|**2026-03-31**|**Emotion Diffusion Classifier with Adaptive Margin Discrepancy Training for Facial Expression Recognition**|Rongkang Dong et.al.|[2603.29578](http://arxiv.org/abs/2603.29578)|null|
+|**2026-03-31**|**Generating Key Postures of Bharatanatyam Adavus with Pose Estimation**|Jagadish Kashinath Kamble et.al.|[2603.29570](http://arxiv.org/abs/2603.29570)|null|
+|**2026-03-31**|**Total Variation Guarantees for Sampling with Stochastic Localization**|Jakob Kellermann et.al.|[2603.29555](http://arxiv.org/abs/2603.29555)|null|
+|**2026-03-31**|**iPoster: Content-Aware Layout Generation for Interactive Poster Design via Graph-Enhanced Diffusion Models**|Xudong Zhou et.al.|[2603.29469](http://arxiv.org/abs/2603.29469)|null|
+|**2026-03-31**|**NeoNet: An End-to-End 3D MRI-Based Deep Learning Framework for Non-Invasive Prediction of Perineural Invasion via Generation-Driven Classification**|Youngung Han et.al.|[2603.29449](http://arxiv.org/abs/2603.29449)|null|
+|**2026-03-31**|**Law of large numbers for stochastic multiscale spatial gene networks**|Arnaud Debussche et.al.|[2603.29446](http://arxiv.org/abs/2603.29446)|null|
+|**2026-03-31**|**Reaction-Diffusion System Approximation to the Fast Diffusion Equation**|Hideki Murakawa et.al.|[2603.29434](http://arxiv.org/abs/2603.29434)|null|
+|**2026-03-31**|**Ultra-short-term volatility surfaces**|Federico M. Bandi et.al.|[2603.29430](http://arxiv.org/abs/2603.29430)|null|
+|**2026-03-31**|**Multi-AUV Cooperative Target Tracking Based on Supervised Diffusion-Aided Multi-Agent Reinforcement Learning**|Jiaao Ma et.al.|[2603.29426](http://arxiv.org/abs/2603.29426)|null|
+|**2026-03-31**|**A2BFR: Attribute-Aware Blind Face Restoration**|Chenxin Zhu et.al.|[2603.29423](http://arxiv.org/abs/2603.29423)|null|
+|**2026-03-31**|**CLaD: Planning with Grounded Foresight via Cross-Modal Latent Dynamics**|Andrew Jeong et.al.|[2603.29409](http://arxiv.org/abs/2603.29409)|null|
+|**2026-03-31**|**Pathogen diversity emerging from coevolutionary dynamics in interconnected systems**|Davide Zanchetta et.al.|[2603.29398](http://arxiv.org/abs/2603.29398)|null|
+|**2026-03-31**|**Closed-Form Solutions to the Fokker-Planck Equation for Orbital Uncertainty Propagation**|Jose Antonio Rebollo et.al.|[2603.29388](http://arxiv.org/abs/2603.29388)|null|
 |**2026-03-29**|**ProgressVLA: Progress-Guided Diffusion Policy for Vision-Language Robotic Manipulation**|Hongyu Yan et.al.|[2603.27670](http://arxiv.org/abs/2603.27670)|null|
 |**2026-03-29**|**Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers**|Yuhe Liu et.al.|[2603.27666](http://arxiv.org/abs/2603.27666)|null|
 |**2026-03-29**|**Test-Time Instance-Specific Parameter Composition: A New Paradigm for Adaptive Generative Modeling**|Minh-Tuan Tran et.al.|[2603.27665](http://arxiv.org/abs/2603.27665)|null|
@@ -4162,12 +4184,32 @@
 |**2026-01-23**|**Recovering Riemannian Geometry from Diffusion**|Amandip Sangha et.al.|[2601.17166](http://arxiv.org/abs/2601.17166)|null|
 |**2026-01-27**|**iFSQ: Improving FSQ for Image Generation with 1 Line of Code**|Bin Lin et.al.|[2601.17124](http://arxiv.org/abs/2601.17124)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 ## Multi-modal Learning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-31**|**Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**|Franco Rugolon et.al.|[2603.29793](http://arxiv.org/abs/2603.29793)|null|
+|**2026-03-31**|**Reasoning-Driven Synthetic Data Generation and Evaluation**|Tim R. Davidson et.al.|[2603.29791](http://arxiv.org/abs/2603.29791)|null|
+|**2026-03-31**|**MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**|Boshko Koloski et.al.|[2603.29784](http://arxiv.org/abs/2603.29784)|null|
+|**2026-03-31**|**Emergence of Non-Hermitian Magic Angles and Topological Phase Transitions in Twisted Bilayer $α$-$T_3$ Lattices**|Shaina Gandhi et.al.|[2603.29779](http://arxiv.org/abs/2603.29779)|null|
+|**2026-03-31**|**M3SA: Exploring Datacenter Performance and Climate-Impact with Multi- and Meta-Model Simulation and Analysis**|Radu Nicolae et.al.|[2603.29778](http://arxiv.org/abs/2603.29778)|null|
+|**2026-03-31**|**From Skeletons to Semantics: Design and Deployment of a Hybrid Edge-Based Action Detection System for Public Safety**|Ganen Sethupathy et.al.|[2603.29777](http://arxiv.org/abs/2603.29777)|null|
+|**2026-03-31**|**Sensitivity of Two-Body Non-Leptonic Branching Fractions to Theoretical Mass Variations in Heavy-Light Mesons**|Manakkumar Parmar et.al.|[2603.29767](http://arxiv.org/abs/2603.29767)|null|
+|**2026-03-31**|**Training-Free Dynamic Upcycling of Expert Language Models**|Eros Fanì et.al.|[2603.29765](http://arxiv.org/abs/2603.29765)|null|
+|**2026-03-31**|**High dimensional alpha test for linear factor pricing model with $L_q$ -norm**|Ping Zhao et.al.|[2603.29764](http://arxiv.org/abs/2603.29764)|null|
+|**2026-03-31**|**Same Rules, Mixed Messages: Exploring Community Perceptions of Academic Dishonesty in Computing Education**|Chandler C. Payne et.al.|[2603.29762](http://arxiv.org/abs/2603.29762)|null|
+|**2026-03-31**|**One-for-All: A Lightweight Stabilized and Parameter-Efficient Pre-trained LLM for Time Series Forecasting**|Prasanjit Dey et.al.|[2603.29756](http://arxiv.org/abs/2603.29756)|null|
+|**2026-03-31**|**CausalPulse: An Industrial-Grade Neurosymbolic Multi-Agent Copilot for Causal Diagnostics in Smart Manufacturing**|Chathurangi Shyalika et.al.|[2603.29755](http://arxiv.org/abs/2603.29755)|null|
+|**2026-03-31**|**AI-Programmable Wireless Connectivity: Challenges and Research Directions Toward Interactive and Immersive Industry**|Haris Gacanin et.al.|[2603.29752](http://arxiv.org/abs/2603.29752)|null|
+|**2026-03-31**|**Editing on the Generative Manifold: A Theoretical and Empirical Study of General Diffusion-Based Image Editing Trade-offs**|Yi Hu et.al.|[2603.29736](http://arxiv.org/abs/2603.29736)|null|
+|**2026-03-31**|**Spontaneous Functional Differentiation in Large Language Models: A Brain-Like Intelligence Economy**|Junjie Zhang et.al.|[2603.29735](http://arxiv.org/abs/2603.29735)|null|
+|**2026-03-31**|**GRVS: a Generalizable and Recurrent Approach to Monocular Dynamic View Synthesis**|Thomas Tanay et.al.|[2603.29734](http://arxiv.org/abs/2603.29734)|null|
+|**2026-03-31**|**Leveraging Synthetic Data for Enhancing Egocentric Hand-Object Interaction Detection**|Rosario Leonardi et.al.|[2603.29733](http://arxiv.org/abs/2603.29733)|null|
+|**2026-03-31**|**Compressive sensing inspired self-supervised single-pixel imaging**|Jijun Lu et.al.|[2603.29732](http://arxiv.org/abs/2603.29732)|null|
+|**2026-03-31**|**Latent-Y: A Lab-Validated Autonomous Agent for De Novo Drug Design**|Latent Labs Team et.al.|[2603.29727](http://arxiv.org/abs/2603.29727)|null|
+|**2026-03-31**|**Unbounded Density Ratio Estimation and Its Application to Covariate Shift Adaptation**|Ren-Rui Liu et.al.|[2603.29725](http://arxiv.org/abs/2603.29725)|null|
 |**2026-03-29**|**Prototype-Aligned Federated Soft-Prompts for Continual Web Personalization**|Canran Xiao et.al.|[2603.27678](http://arxiv.org/abs/2603.27678)|null|
 |**2026-03-29**|**Energy Score-Guided Neural Gaussian Mixture Model for Predictive Uncertainty Quantification**|Yang Yang et.al.|[2603.27672](http://arxiv.org/abs/2603.27672)|null|
 |**2026-03-29**|**EvA: An Evidence-First Audio Understanding Paradigm for LALMs**|Xinyuan Xie et.al.|[2603.27667](http://arxiv.org/abs/2603.27667)|null|
@@ -6289,7 +6331,7 @@
 |**2026-02-26**|**Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**|Chengyu Cui et.al.|[2602.22590](http://arxiv.org/abs/2602.22590)|null|
 |**2026-02-26**|**TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**|Donghong Cai et.al.|[2602.22586](http://arxiv.org/abs/2602.22586)|null|
 
-<p align=right>(<a href=#updated-on-20260331>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
