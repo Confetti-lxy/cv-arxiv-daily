@@ -1,4 +1,4 @@
-> Updated on 2026.04.01
+> Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,7 +12,12 @@
 
 ## Single Object & Visual Language Tracking
 
-- 2026-03-30, **A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**, Alberto Torralba et.al., Paper: [http://arxiv.org/abs/2603.28335](http://arxiv.org/abs/2603.28335)
+- 2026-04-03, **A statistical study of the environmental age of core-collapse supernovae based on VLT/MUSE integral-field-unit spectroscopy**, Qiang Xi et.al., Paper: [http://arxiv.org/abs/2604.03032](http://arxiv.org/abs/2604.03032)
+- 2026-04-03, **Drift-Resilient Temporal Priors for Visual Tracking**, Yuqing Huang et.al., Paper: [http://arxiv.org/abs/2604.02654](http://arxiv.org/abs/2604.02654)
+- 2026-04-02, **UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**, Qiyao Zhang et.al., Paper: [http://arxiv.org/abs/2604.02241](http://arxiv.org/abs/2604.02241)
+- 2026-04-02, **Spectropolarimetry of the changing-look active galactic nucleus NGC 1566 and its potential link to supermassive black hole binaries**, F. Marin et.al., Paper: [http://arxiv.org/abs/2604.01872](http://arxiv.org/abs/2604.01872)
+- 2026-04-01, **Impact of gate voltage on switching field of perpendicular magnetic tunnel junctions with a synthetic antiferromagnetic free layer**, K. Fan et.al., Paper: [http://arxiv.org/abs/2604.00839](http://arxiv.org/abs/2604.00839)
+- 2026-04-02, **A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**, Alberto Torralba et.al., Paper: [http://arxiv.org/abs/2603.28335](http://arxiv.org/abs/2603.28335)
 - 2026-03-29, **Spatial Orthogonal Refinement for Robust RGB-Event Visual Object Tracking**, Dexing Huang et.al., Paper: [http://arxiv.org/abs/2603.27913](http://arxiv.org/abs/2603.27913)
 - 2026-03-29, **Fully Spiking Neural Networks with Target Awareness for Energy-Efficient UAV Tracking**, Pengzhi Zhong et.al., Paper: [http://arxiv.org/abs/2603.27493](http://arxiv.org/abs/2603.27493)
 - 2026-03-28, **Two-Stage Acoustic Adaptation with Gated Cross-Attention Adapters for LLM-Based Multi-Talker Speech Recognition**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2603.27205](http://arxiv.org/abs/2603.27205)
@@ -2035,10 +2040,30 @@
 - 2021-02-17, **Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**, T. Olander et.al., Paper: [http://arxiv.org/abs/2102.08836](http://arxiv.org/abs/2102.08836)
 - 2021-02-17, **Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**, C. Ginski et.al., Paper: [http://arxiv.org/abs/2102.08781](http://arxiv.org/abs/2102.08781)
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-04-03, **VOSR: A Vision-Only Generative Model for Image Super-Resolution**, Rongyuan Wu et.al., Paper: [http://arxiv.org/abs/2604.03225](http://arxiv.org/abs/2604.03225)
+- 2026-04-03, **Nelson's Stochastic Mechanics: Measurement, Nonlocality, and the Classical Limit**, Partha Ghose et.al., Paper: [http://arxiv.org/abs/2604.03214](http://arxiv.org/abs/2604.03214)
+- 2026-04-03, **The Compression Gap: Why Discrete Tokenization Limits Vision-Language-Action Model Scaling**, Takuya Shiba et.al., Paper: [http://arxiv.org/abs/2604.03191](http://arxiv.org/abs/2604.03191)
+- 2026-04-03, **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**, Peiyan Li et.al., Paper: [http://arxiv.org/abs/2604.03181](http://arxiv.org/abs/2604.03181)
+- 2026-04-03, **Entropy correction artificial viscosity for high order DG methods using multiple artificial viscosities**, Raymond Park et.al., Paper: [http://arxiv.org/abs/2604.03158](http://arxiv.org/abs/2604.03158)
+- 2026-04-03, **SD-FSMIS: Adapting Stable Diffusion for Few-Shot Medical Image Segmentation**, Meihua Li et.al., Paper: [http://arxiv.org/abs/2604.03134](http://arxiv.org/abs/2604.03134)
+- 2026-04-03, **Exit times from time-dependent random domains: continuity, weak convergence, and exit-time profiles Draft -currently under review at Stochastic Processes and their Applications**, Tristan Guillaume et.al., Paper: [http://arxiv.org/abs/2604.03129](http://arxiv.org/abs/2604.03129)
+- 2026-04-03, **First Passage through a Continuous Barrier: Pathwise Decomposition, Random-Time Structure, and Compensators**, Tristan Guillaume et.al., Paper: [http://arxiv.org/abs/2604.03125](http://arxiv.org/abs/2604.03125)
+- 2026-04-03, **Gram-MMD: A Texture-Aware Metric for Image Realism Assessment**, Joé Napolitano et.al., Paper: [http://arxiv.org/abs/2604.03064](http://arxiv.org/abs/2604.03064)
+- 2026-04-03, **Regularization operators for identifying the unknown source in the time-fractional convection-diffusion-reaction equation**, Guillermo Federico Umbricht et.al., Paper: [http://arxiv.org/abs/2604.03055](http://arxiv.org/abs/2604.03055)
+- 2026-04-03, **Vegetation Pattern Formation via Energy-Balance-Constrained Modeling**, Chad M. Topaz et.al., Paper: [http://arxiv.org/abs/2604.03031](http://arxiv.org/abs/2604.03031)
+- 2026-04-03, **Generating DDPM-based Samples from Tilted Distributions**, Himadri Mandal et.al., Paper: [http://arxiv.org/abs/2604.03015](http://arxiv.org/abs/2604.03015)
+- 2026-04-03, **User-Aware Conditional Generative Total Correlation Learning for Multi-Modal Recommendation**, Jing Du et.al., Paper: [http://arxiv.org/abs/2604.03014](http://arxiv.org/abs/2604.03014)
+- 2026-04-03, **Evidence of Enhanced Ionization in Protostellar Envelopes**, Kamber R. Schwarz et.al., Paper: [http://arxiv.org/abs/2604.03010](http://arxiv.org/abs/2604.03010)
+- 2026-04-03, **The Variational Approach in Filtering and Correlated Noise**, Sharan Srinivasan et.al., Paper: [http://arxiv.org/abs/2604.03001](http://arxiv.org/abs/2604.03001)
+- 2026-04-03, **Nonzero-Sum Stochastic Differential Games for Controlled Convection-Diffusion SPDEs**, Nacira Agram et.al., Paper: [http://arxiv.org/abs/2604.02998](http://arxiv.org/abs/2604.02998)
+- 2026-04-03, **Not All Frames Deserve Full Computation: Accelerating Autoregressive Video Generation via Selective Computation and Predictive Extrapolation**, Hanshuai Cui et.al., Paper: [http://arxiv.org/abs/2604.02979](http://arxiv.org/abs/2604.02979)
+- 2026-04-03, **Visual Prototype Conditioned Focal Region Generation for UAV-Based Object Detection**, Wenhao Li et.al., Paper: [http://arxiv.org/abs/2604.02966](http://arxiv.org/abs/2604.02966)
+- 2026-04-03, **Non-equilibrium Dynamical Attractors and Thermalisation of Charm Quarks in Nuclear Collisions at the LHC Energy**, Shile Chen et.al., Paper: [http://arxiv.org/abs/2604.02944](http://arxiv.org/abs/2604.02944)
+- 2026-04-03, **Memory-Type Null Controllability for Non-Autonomous Degenerate Parabolic Equations with Boundary Degeneracy**, Dev Prakash Jha et.al., Paper: [http://arxiv.org/abs/2604.02916](http://arxiv.org/abs/2604.02916)
 - 2026-03-31, **Option Pricing on Automated Market Maker Tokens**, Philip Z. Maymin et.al., Paper: [http://arxiv.org/abs/2603.29763](http://arxiv.org/abs/2603.29763)
 - 2026-03-31, **SHIFT: Stochastic Hidden-Trajectory Deflection for Removing Diffusion-based Watermark**, Rui Bao et.al., Paper: [http://arxiv.org/abs/2603.29742](http://arxiv.org/abs/2603.29742)
 - 2026-03-31, **Editing on the Generative Manifold: A Theoretical and Empirical Study of General Diffusion-Based Image Editing Trade-offs**, Yi Hu et.al., Paper: [http://arxiv.org/abs/2603.29736](http://arxiv.org/abs/2603.29736)
@@ -4180,10 +4205,30 @@
 - 2026-01-23, **Recovering Riemannian Geometry from Diffusion**, Amandip Sangha et.al., Paper: [http://arxiv.org/abs/2601.17166](http://arxiv.org/abs/2601.17166)
 - 2026-01-27, **iFSQ: Improving FSQ for Image Generation with 1 Line of Code**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2601.17124](http://arxiv.org/abs/2601.17124)
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## Multi-modal Learning
 
+- 2026-04-03, **CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning**, Ankan Deria et.al., Paper: [http://arxiv.org/abs/2604.03231](http://arxiv.org/abs/2604.03231)
+- 2026-04-03, **VOSR: A Vision-Only Generative Model for Image Super-Resolution**, Rongyuan Wu et.al., Paper: [http://arxiv.org/abs/2604.03225](http://arxiv.org/abs/2604.03225)
+- 2026-04-03, **HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis**, Fengbei Liu et.al., Paper: [http://arxiv.org/abs/2604.03224](http://arxiv.org/abs/2604.03224)
+- 2026-04-03, **Unmixing the Crowd: Learning Mixture-to-Set Speaker Embeddings for Enrollment-Free Target Speech Extraction**, FNU Sidharth et.al., Paper: [http://arxiv.org/abs/2604.03219](http://arxiv.org/abs/2604.03219)
+- 2026-04-03, **BAS: A Decision-Theoretic Approach to Evaluating Large Language Model Confidence**, Sean Wu et.al., Paper: [http://arxiv.org/abs/2604.03216](http://arxiv.org/abs/2604.03216)
+- 2026-04-03, **Hierarchical Planning with Latent World Models**, Wancong Zhang et.al., Paper: [http://arxiv.org/abs/2604.03208](http://arxiv.org/abs/2604.03208)
+- 2026-04-03, **CO and N2 Produced from H2O, CO2, and NH3 Cometary Ice Analogs**, Alexandra McKinnon et.al., Paper: [http://arxiv.org/abs/2604.03207](http://arxiv.org/abs/2604.03207)
+- 2026-04-03, **Coupled Control, Structured Memory, and Verifiable Action in Agentic AI (SCRAT -- Stochastic Control with Retrieval and Auditable Trajectories): A Comparative Perspective from Squirrel Locomotion and Scatter-Hoarding**, Maximiliano Armesto et.al., Paper: [http://arxiv.org/abs/2604.03201](http://arxiv.org/abs/2604.03201)
+- 2026-04-03, **Bifurcations in Stokes Flow Sedimentation**, Elias Huseby et.al., Paper: [http://arxiv.org/abs/2604.03193](http://arxiv.org/abs/2604.03193)
+- 2026-04-03, **Multi-View Video Diffusion Policy: A 3D Spatio-Temporal-Aware Video Action Model**, Peiyan Li et.al., Paper: [http://arxiv.org/abs/2604.03181](http://arxiv.org/abs/2604.03181)
+- 2026-04-03, **PRISM: LLM-Guided Semantic Clustering for High-Precision Topics**, Connor Douglas et.al., Paper: [http://arxiv.org/abs/2604.03180](http://arxiv.org/abs/2604.03180)
+- 2026-04-03, **Understanding the Role of Hallucination in Reinforcement Post-Training of Multimodal Reasoning Models**, Gengwei Zhang et.al., Paper: [http://arxiv.org/abs/2604.03179](http://arxiv.org/abs/2604.03179)
+- 2026-04-03, **SFFNet: Synergistic Feature Fusion Network With Dual-Domain Edge Enhancement for UAV Image Object Detection**, Wenfeng Zhang et.al., Paper: [http://arxiv.org/abs/2604.03176](http://arxiv.org/abs/2604.03176)
+- 2026-04-03, **Beyond the Parameters: A Technical Survey of Contextual Enrichment in Large Language Models: From In-Context Prompting to Causal Retrieval-Augmented Generation**, Prakhar Bansal et.al., Paper: [http://arxiv.org/abs/2604.03174](http://arxiv.org/abs/2604.03174)
+- 2026-04-03, **Detecting and Correcting Reference Hallucinations in Commercial LLMs and Deep Research Agents**, Delip Rao et.al., Paper: [http://arxiv.org/abs/2604.03173](http://arxiv.org/abs/2604.03173)
+- 2026-04-03, **Exclusive and Shared Electric Flying Taxis: Evidence on Modal Shares, Stated Reasons, and Modal Shifts**, Nael Alsaleh et.al., Paper: [http://arxiv.org/abs/2604.03166](http://arxiv.org/abs/2604.03166)
+- 2026-04-03, **BibTeX Citation Hallucinations in Scientific Publishing Agents: Evaluation and Mitigation**, Delip Rao et.al., Paper: [http://arxiv.org/abs/2604.03159](http://arxiv.org/abs/2604.03159)
+- 2026-04-03, **Chart-RL: Policy Optimization Reinforcement Learning for Enhanced Visual Reasoning in Chart Question Answering with Vision Language Models**, Yunfei Bai et.al., Paper: [http://arxiv.org/abs/2604.03157](http://arxiv.org/abs/2604.03157)
+- 2026-04-03, **CAMEO: A Conditional and Quality-Aware Multi-Agent Image Editing Orchestrator**, Yuhan Pu et.al., Paper: [http://arxiv.org/abs/2604.03156](http://arxiv.org/abs/2604.03156)
+- 2026-04-03, **Routing Entanglement in Complex Quantum Networks Using GHZ States**, Xin-An Chen et.al., Paper: [http://arxiv.org/abs/2604.03155](http://arxiv.org/abs/2604.03155)
 - 2026-03-31, **Multimodal Machine Learning for Early Prediction of Metastasis in a Swedish Multi-Cancer Cohort**, Franco Rugolon et.al., Paper: [http://arxiv.org/abs/2603.29793](http://arxiv.org/abs/2603.29793)
 - 2026-03-31, **Reasoning-Driven Synthetic Data Generation and Evaluation**, Tim R. Davidson et.al., Paper: [http://arxiv.org/abs/2603.29791](http://arxiv.org/abs/2603.29791)
 - 2026-03-31, **MAPLE: Multi-Path Adaptive Propagation with Level-Aware Embeddings for Hierarchical Multi-Label Image Classification**, Boshko Koloski et.al., Paper: [http://arxiv.org/abs/2603.29784](http://arxiv.org/abs/2603.29784)
@@ -6325,7 +6370,7 @@
 - 2026-02-26, **Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**, Chengyu Cui et.al., Paper: [http://arxiv.org/abs/2602.22590](http://arxiv.org/abs/2602.22590)
 - 2026-02-26, **TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**, Donghong Cai et.al., Paper: [http://arxiv.org/abs/2602.22586](http://arxiv.org/abs/2602.22586)
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
