@@ -2,20 +2,30 @@
 layout: default
 ---
 
-## Updated on 2026.04.11
+## Updated on 2026.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-04-09**|**Extended coronal line emission and new clues to a possible dual AGN in the merger J1356+1026**|M. Bianchin et.al.|[2604.08239](http://arxiv.org/abs/2604.08239)|null|
+|**2026-04-15**|**Witnessing the onset of stellar winds in Super-Luminous Supernova Hosts: implications for star-formation-driven outflows in low and high-redshift galaxies**|A. Saldana-Lopez et.al.|[2604.13865](http://arxiv.org/abs/2604.13865)|null|
+|**2026-04-15**|**Temporally Consistent Long-Term Memory for 3D Single Object Tracking**|Jaejoon Yoo et.al.|[2604.13789](http://arxiv.org/abs/2604.13789)|null|
+|**2026-04-14**|**The Great Escape of ionizing photons during Cosmic Morning**|Kanak Saha et.al.|[2604.13267](http://arxiv.org/abs/2604.13267)|null|
+|**2026-04-14**|**Multiwavelength Study of Blue Straggler Stars in Tombaugh 2: Evidence for Binary Mass Transfer and Constraints on Cluster Dynamical State**|D. Bisht et.al.|[2604.12494](http://arxiv.org/abs/2604.12494)|null|
+|**2026-04-13**|**The high-altitude, inner-disc, and chemically peculiar open cluster UBC 1052**|Judit Donada et.al.|[2604.11291](http://arxiv.org/abs/2604.11291)|null|
+|**2026-04-13**|**Observations of highly inclined disks with ALMA. Results from 12CO gas and continuum observations**|Laurine Martinien et.al.|[2604.11247](http://arxiv.org/abs/2604.11247)|null|
+|**2026-04-12**|**STORM: End-to-End Referring Multi-Object Tracking in Videos**|Zijia Lu et.al.|[2604.10527](http://arxiv.org/abs/2604.10527)|null|
+|**2026-04-11**|**A seeing measurement device for the PoET solar telescope**|Bachar Wehbe et.al.|[2604.10140](http://arxiv.org/abs/2604.10140)|null|
+|**2026-04-10**|**High-Contrast Imaging of Forming Protoplanets: VLTs, JWST, and the Promise of ELT**|Gabriele Cugno et.al.|[2604.09526](http://arxiv.org/abs/2604.09526)|null|
+|**2026-04-10**|**IFS spectrograph designs for the Wide-field Spectroscopic Telescope: Architecture and performance gains from curved sensors**|Corentin Cudennec et.al.|[2604.09488](http://arxiv.org/abs/2604.09488)|null|
+|**2026-04-14**|**Extended coronal line emission and new clues to a possible dual AGN in the merger J1356+1026**|M. Bianchin et.al.|[2604.08239](http://arxiv.org/abs/2604.08239)|null|
 |**2026-04-08**|**Large Interstellar Polarisation Survey. III. Observational constraints on the structure of grains**|Ralf Siebenmorgen et.al.|[2604.06986](http://arxiv.org/abs/2604.06986)|null|
 |**2026-04-07**|**High-contrast imaging of Galactic Cepheids with VLT/SPHERE**|A. Gallenne et.al.|[2604.05287](http://arxiv.org/abs/2604.05287)|null|
 |**2026-04-06**|**Super-Solar Metallicity and Tentative Evidence for Photochemistry on WASP-96b from JWST and Ground-Based VLT Transmission Spectroscopy**|Michael Radica et.al.|[2604.05049](http://arxiv.org/abs/2604.05049)|null|
 |**2026-04-03**|**A statistical study of the environmental age of core-collapse supernovae based on VLT/MUSE integral-field-unit spectroscopy**|Qiang Xi et.al.|[2604.03032](http://arxiv.org/abs/2604.03032)|null|
 |**2026-04-03**|**Drift-Resilient Temporal Priors for Visual Tracking**|Yuqing Huang et.al.|[2604.02654](http://arxiv.org/abs/2604.02654)|null|
-|**2026-04-02**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
+|**2026-04-10**|**UAV-Track VLA: Embodied Aerial Tracking via Vision-Language-Action Models**|Qiyao Zhang et.al.|[2604.02241](http://arxiv.org/abs/2604.02241)|null|
 |**2026-04-02**|**Spectropolarimetry of the changing-look active galactic nucleus NGC 1566 and its potential link to supermassive black hole binaries**|F. Marin et.al.|[2604.01872](http://arxiv.org/abs/2604.01872)|null|
 |**2026-04-01**|**Impact of gate voltage on switching field of perpendicular magnetic tunnel junctions with a synthetic antiferromagnetic free layer**|K. Fan et.al.|[2604.00839](http://arxiv.org/abs/2604.00839)|null|
 |**2026-04-02**|**A Black Hole Star at Cosmic Noon: Extreme Balmer break, photospheric continuum, and broad absorption by thick winds in a Little Red Dot at z=1.7**|Alberto Torralba et.al.|[2603.28335](http://arxiv.org/abs/2603.28335)|null|
@@ -2045,6 +2055,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Diffusion Language Models for Speech Recognition**|Davyd Naveriani et.al.|[2604.14001](http://arxiv.org/abs/2604.14001)|null|
+|**2026-04-15**|**Remote Sensing Image Super-Resolution for Imbalanced Textures: A Texture-Aware Diffusion Framework**|Enzhuo Zhang et.al.|[2604.13994](http://arxiv.org/abs/2604.13994)|null|
+|**2026-04-15**|**Shock properties for solar energetic particle events with signatures of inverse velocity arrival**|A. Kouloumvakos et.al.|[2604.13962](http://arxiv.org/abs/2604.13962)|null|
+|**2026-04-15**|**Goal2Skill: Long-Horizon Manipulation with Adaptive Planning and Reflection**|Zhen Liu et.al.|[2604.13942](http://arxiv.org/abs/2604.13942)|null|
+|**2026-04-15**|**ASTRA: Enhancing Multi-Subject Generation with Retrieval-Augmented Pose Guidance and Disentangled Position Embedding**|Tianze Xia et.al.|[2604.13938](http://arxiv.org/abs/2604.13938)|null|
+|**2026-04-15**|**Three-dimensional photon transport in spinodal photocatalytic aerogels: how bicontinuous morphology controls kinetic rate constants**|Renaud A. L. Vallée et.al.|[2604.13929](http://arxiv.org/abs/2604.13929)|null|
+|**2026-04-15**|**Scalar anomalous dissipation and optimal regularity via iterated homogenization**|Jan Burczak et.al.|[2604.13912](http://arxiv.org/abs/2604.13912)|null|
+|**2026-04-15**|**Large-scale Morphology of the Optical F-corona from a Total Solar Eclipse Observation During the Artemis II Lunar Flyby**|Kohji Tsumura et.al.|[2604.13908](http://arxiv.org/abs/2604.13908)|null|
+|**2026-04-15**|**Blind Bitstream-corrupted Video Recovery via Metadata-guided Diffusion Model**|Shuyun Wang et.al.|[2604.13906](http://arxiv.org/abs/2604.13906)|null|
+|**2026-04-15**|**Low temperature Spin freezing and Diffuse Magnetic Correlations in Tb $_{2}$Zr$_{2-x}$Ti$_{x}$O$_{7}$ (x = 0, 0.5)**|Sujata Singh et.al.|[2604.13864](http://arxiv.org/abs/2604.13864)|null|
+|**2026-04-15**|**PostureObjectstitch: Anomaly Image Generation Considering Assembly Relationships in Industrial Scenarios**|Zebei Tong et.al.|[2604.13863](http://arxiv.org/abs/2604.13863)|null|
+|**2026-04-15**|**First Passage Times for Variable-Order Time-Fractional Diffusion**|Wancheng Li et.al.|[2604.13852](http://arxiv.org/abs/2604.13852)|null|
+|**2026-04-15**|**DiffMagicFace: Identity Consistent Facial Editing of Real Videos**|Huanghao Yin et.al.|[2604.13841](http://arxiv.org/abs/2604.13841)|null|
+|**2026-04-15**|**From Synchrony to Sequence: Exo-to-Ego Generation via Interpolation**|Mohammad Mahdi et.al.|[2604.13793](http://arxiv.org/abs/2604.13793)|null|
+|**2026-04-15**|**Universal thermometry of solid-liquid interfacial thermal conductance**|Tao Chen et.al.|[2604.13741](http://arxiv.org/abs/2604.13741)|null|
+|**2026-04-15**|**Physics-Informed Neural Networks for Solving Derivative-Constrained PDEs**|Kentaro Hoshisashi et.al.|[2604.13723](http://arxiv.org/abs/2604.13723)|null|
+|**2026-04-15**|**Green's Function and Pointwise Space-time Behaviors of the three-Dimensional modified Vlasov-Poisson-Boltzmann System**|Yanchao Li et.al.|[2604.13703](http://arxiv.org/abs/2604.13703)|null|
+|**2026-04-15**|**EMGFlow: Robust and Efficient Surface Electromyography Synthesis via Flow Matching**|Boxuan Jiang et.al.|[2604.13685](http://arxiv.org/abs/2604.13685)|null|
+|**2026-04-15**|**Orientation dynamics of a settling spheroid in simple shear flow: bifurcations and stochastic alignment**|Himanshu Mishra et.al.|[2604.13676](http://arxiv.org/abs/2604.13676)|null|
+|**2026-04-15**|**Sharp asymptotic behaviour of symmetric and non-symmetric solutions of the Heat Equation in the Hyperbolic Space**|José Alfredo Cañizo et.al.|[2604.13669](http://arxiv.org/abs/2604.13669)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
 |**2026-04-09**|**SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds**|Yunsong Zhou et.al.|[2604.08544](http://arxiv.org/abs/2604.08544)|null|
 |**2026-04-09**|**RewardFlow: Generate Images by Optimizing What You Reward**|Onkar Susladkar et.al.|[2604.08536](http://arxiv.org/abs/2604.08536)|null|
@@ -4230,6 +4260,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-15**|**Seek-and-Solve: Benchmarking MLLMs for Visual Clue-Driven Reasoning in Daily Scenarios**|Xiaomin Li et.al.|[2604.14041](http://arxiv.org/abs/2604.14041)|null|
+|**2026-04-15**|**KindHML: formal verification of smart contracts based on Hennessy-Milner logic**|Massimo Bartoletti et.al.|[2604.14038](http://arxiv.org/abs/2604.14038)|null|
+|**2026-04-15**|**Large Language Models to Enhance Business Process Modeling: Past, Present, and Future Trends**|João Bettencourt et.al.|[2604.14034](http://arxiv.org/abs/2604.14034)|null|
+|**2026-04-15**|**Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model**|Zhe Huang et.al.|[2604.14030](http://arxiv.org/abs/2604.14030)|null|
+|**2026-04-15**|**POINTS-Seeker: Towards Training a Multimodal Agentic Search Model from Scratch**|Yikun Liu et.al.|[2604.14029](http://arxiv.org/abs/2604.14029)|null|
+|**2026-04-15**|**MAny: Merge Anything for Multimodal Continual Instruction Tuning**|Zijian Gao et.al.|[2604.14016](http://arxiv.org/abs/2604.14016)|null|
+|**2026-04-15**|**Parameter Importance is Not Static: Evolving Parameter Isolation for Supervised Fine-Tuning**|Zekai Lin et.al.|[2604.14010](http://arxiv.org/abs/2604.14010)|null|
+|**2026-04-15**|**Acts of Configuration: Rethinking Provenance, Temporality and Legitimacy in Post-Mortem Agents**|Kellie Yu Hui Sim et.al.|[2604.13996](http://arxiv.org/abs/2604.13996)|null|
+|**2026-04-15**|**Depth-Aware Image and Video Orientation Estimation**|Muhammad Z. Alam et.al.|[2604.13995](http://arxiv.org/abs/2604.13995)|null|
+|**2026-04-15**|**Remote Sensing Image Super-Resolution for Imbalanced Textures: A Texture-Aware Diffusion Framework**|Enzhuo Zhang et.al.|[2604.13994](http://arxiv.org/abs/2604.13994)|null|
+|**2026-04-15**|**Reward Design for Physical Reasoning in Vision-Language Models**|Derek Lilienthal et.al.|[2604.13993](http://arxiv.org/abs/2604.13993)|null|
+|**2026-04-15**|**Physics-Informed Neural Networks for Methane Sorption: Cross-Gas Transfer Learning, Ensemble Collapse Under Physics Constraints, and Monte Carlo Dropout Uncertainty Quantification**|Mohammad Nooraiepour et.al.|[2604.13992](http://arxiv.org/abs/2604.13992)|null|
+|**2026-04-15**|**Adaptive Conformal Prediction for Improving Factuality of Generations by Large Language Models**|Aleksandr Rubashevskii et.al.|[2604.13991](http://arxiv.org/abs/2604.13991)|null|
+|**2026-04-15**|**Unsupervised domain transfer: Overcoming signal degradation in sleep monitoring by increasing scoring realism**|Mohammad Ahangarkiasari et.al.|[2604.13988](http://arxiv.org/abs/2604.13988)|null|
+|**2026-04-15**|**Weighted NetKAT: A Programming Language For Quantitative Network Verification**|Emmanuel Suárez Acevedo et.al.|[2604.13987](http://arxiv.org/abs/2604.13987)|null|
+|**2026-04-15**|**Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs**|Hussein Abdallah et.al.|[2604.13979](http://arxiv.org/abs/2604.13979)|null|
+|**2026-04-15**|**Improving Treatment Effect Estimation in Trials through Adaptive Borrowing of External Controls**|Qinwei Yang et.al.|[2604.13973](http://arxiv.org/abs/2604.13973)|null|
+|**2026-04-15**|**MApLe: Multi-instance Alignment of Diagnostic Reports and Large Medical Images**|Felicia Bader et.al.|[2604.13970](http://arxiv.org/abs/2604.13970)|null|
+|**2026-04-15**|**Provably Efficient Offline-to-Online Value Adaptation with General Function Approximation**|Shangzhe Li et.al.|[2604.13966](http://arxiv.org/abs/2604.13966)|null|
+|**2026-04-15**|**Twist-engineering of a robust Quantum Spin Hall phase in $β$ -/flat bismuthene bilayer from first principles**|Umberto Pelliccia et.al.|[2604.13960](http://arxiv.org/abs/2604.13960)|null|
 |**2026-04-09**|**ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets**|Xiaoben Li et.al.|[2604.08548](http://arxiv.org/abs/2604.08548)|null|
 |**2026-04-09**|**GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics**|Jiaxin Wang et.al.|[2604.08547](http://arxiv.org/abs/2604.08547)|null|
 |**2026-04-09**|**When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models**|Zhengyang Sun et.al.|[2604.08546](http://arxiv.org/abs/2604.08546)|null|
