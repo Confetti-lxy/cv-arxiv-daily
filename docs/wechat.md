@@ -1,4 +1,4 @@
-> Updated on 2026.04.21
+> Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -12,6 +12,8 @@
 
 ## Single Object & Visual Language Tracking
 
+- 2026-04-22, **AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**, Kui Wu et.al., Paper: [http://arxiv.org/abs/2604.20305](http://arxiv.org/abs/2604.20305)
+- 2026-04-20, **GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA**, D. Kakkad et.al., Paper: [http://arxiv.org/abs/2604.18671](http://arxiv.org/abs/2604.18671)
 - 2026-04-17, **The Qz5 Survey (II): Metallicity Evolution of Damped Lyα Systems Out to z $\sim$ 5**, Marie Wisz et.al., Paper: [http://arxiv.org/abs/2604.16751](http://arxiv.org/abs/2604.16751)
 - 2026-04-16, **The Effect of External Photoevaporation on the Disk Fraction in M17**, Samuel Millstone et.al., Paper: [http://arxiv.org/abs/2604.15506](http://arxiv.org/abs/2604.15506)
 - 2026-04-16, **Stellar nucleosynthesis in the era of large surveys: s-process polluted binaries in GALAH DR4**, A. Escorza et.al., Paper: [http://arxiv.org/abs/2604.15197](http://arxiv.org/abs/2604.15197)
@@ -2058,10 +2060,30 @@
 - 2021-02-17, **Comparative high-resolution spectroscopy of M dwarfs -- exploring non-LTE effects**, T. Olander et.al., Paper: [http://arxiv.org/abs/2102.08836](http://arxiv.org/abs/2102.08836)
 - 2021-02-17, **Disk Evolution Study Through Imaging of Nearby Young Stars (DESTINYS): Late infall causing disk misalignment and dynamic structures in SU Aur**, C. Ginski et.al., Paper: [http://arxiv.org/abs/2102.08781](http://arxiv.org/abs/2102.08781)
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## Diffusion
 
+- 2026-04-23, **VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**, Songen Gu et.al., Paper: [http://arxiv.org/abs/2604.21914](http://arxiv.org/abs/2604.21914)
+- 2026-04-23, **A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**, Max Defez et.al., Paper: [http://arxiv.org/abs/2604.21903](http://arxiv.org/abs/2604.21903)
+- 2026-04-23, **Testing solitonic boson star interpretations of Sagittarius A* with near-infrared flare astrometry**, Xiangyu Wang et.al., Paper: [http://arxiv.org/abs/2604.21883](http://arxiv.org/abs/2604.21883)
+- 2026-04-23, **Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids**, Hari Haran Sudhakar et.al., Paper: [http://arxiv.org/abs/2604.21867](http://arxiv.org/abs/2604.21867)
+- 2026-04-23, **Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**, Li Chen et.al., Paper: [http://arxiv.org/abs/2604.21843](http://arxiv.org/abs/2604.21843)
+- 2026-04-23, **Direct Problem for Gas Diffusion in Polar Firn with Variable Coefficients**, Sophie Moufawad et.al., Paper: [http://arxiv.org/abs/2604.21821](http://arxiv.org/abs/2604.21821)
+- 2026-04-23, **Quotient-Space Diffusion Models**, Yixian Xu et.al., Paper: [http://arxiv.org/abs/2604.21809](http://arxiv.org/abs/2604.21809)
+- 2026-04-23, **Turbulent mixing of a hydrogen jet in crossflow: direct numerical simulation and model assessment**, Yiqing Wang et.al., Paper: [http://arxiv.org/abs/2604.21797](http://arxiv.org/abs/2604.21797)
+- 2026-04-23, **Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting**, Avinash Paliwal et.al., Paper: [http://arxiv.org/abs/2604.21776](http://arxiv.org/abs/2604.21776)
+- 2026-04-23, **Local error estimates for a finite element method combining linear and nonlinear stabilization for the linear hyperbolic transport equation**, Erik Burman et.al., Paper: [http://arxiv.org/abs/2604.21775](http://arxiv.org/abs/2604.21775)
+- 2026-04-23, **Novel dynamics for an inertial polar tracer in an active bath**, Jing-Bo Zeng et.al., Paper: [http://arxiv.org/abs/2604.21762](http://arxiv.org/abs/2604.21762)
+- 2026-04-23, **Maximum principle and local stability for a class of coupled nonlinear thermo--reaction--phase systems**, Gossrin Jean-Marc Bomisso et.al., Paper: [http://arxiv.org/abs/2604.21756](http://arxiv.org/abs/2604.21756)
+- 2026-04-23, **Stable and asymptotic preserving space-time discretizations of a linear kinetic transport equation in diffusive scaling**, Anita Gjesteland et.al., Paper: [http://arxiv.org/abs/2604.21752](http://arxiv.org/abs/2604.21752)
+- 2026-04-23, **OptoCENTAL: a standardised, bench-testing platform based on phantoms for validating optical systems aimed at clinical monitoring of the placenta**, Luca Giannoni et.al., Paper: [http://arxiv.org/abs/2604.21747](http://arxiv.org/abs/2604.21747)
+- 2026-04-23, **Segment convergence for super-linear stochastic functional differential equations by the truncated Euler-Maruyama method**, Shounian Deng et.al., Paper: [http://arxiv.org/abs/2604.21704](http://arxiv.org/abs/2604.21704)
+- 2026-04-23, **StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**, Kwan Yun et.al., Paper: [http://arxiv.org/abs/2604.21689](http://arxiv.org/abs/2604.21689)
+- 2026-04-23, **Optimal control of therapies related to an oxytaxis glioblastoma model**, Juan J. Forero-Hernańdez et.al., Paper: [http://arxiv.org/abs/2604.21674](http://arxiv.org/abs/2604.21674)
+- 2026-04-23, **Discontinuous transition in 2D Potts: II. Order-Order Interface convergence**, Moritz Dober et.al., Paper: [http://arxiv.org/abs/2604.21669](http://arxiv.org/abs/2604.21669)
+- 2026-04-23, **Spectral Diffusion Mitigation with a Laser Pulse Sequence**, Kilian Unterguggenberger et.al., Paper: [http://arxiv.org/abs/2604.21659](http://arxiv.org/abs/2604.21659)
+- 2026-04-23, **DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**, Tahar Chettaoui et.al., Paper: [http://arxiv.org/abs/2604.21627](http://arxiv.org/abs/2604.21627)
 - 2026-04-19, **EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**, Yu Zhang et.al., Paper: [http://arxiv.org/abs/2604.17211](http://arxiv.org/abs/2604.17211)
 - 2026-04-19, **SciDraw-6K: A Multilingual Scientific Illustration Dataset Generated by Google Gemini**, Davie Chen et.al., Paper: [http://arxiv.org/abs/2604.17206](http://arxiv.org/abs/2604.17206)
 - 2026-04-19, **DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior**, Junjia Huang et.al., Paper: [http://arxiv.org/abs/2604.17195](http://arxiv.org/abs/2604.17195)
@@ -4283,10 +4305,30 @@
 - 2026-01-23, **Recovering Riemannian Geometry from Diffusion**, Amandip Sangha et.al., Paper: [http://arxiv.org/abs/2601.17166](http://arxiv.org/abs/2601.17166)
 - 2026-01-27, **iFSQ: Improving FSQ for Image Generation with 1 Line of Code**, Bin Lin et.al., Paper: [http://arxiv.org/abs/2601.17124](http://arxiv.org/abs/2601.17124)
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## Multi-modal Learning
 
+- 2026-04-23, **Seeing Fast and Slow: Learning the Flow of Time in Videos**, Yen-Siang Wu et.al., Paper: [http://arxiv.org/abs/2604.21931](http://arxiv.org/abs/2604.21931)
+- 2026-04-23, **Evaluation of Automatic Speech Recognition Using Generative Large Language Models**, Thibault Bañeras-Roux et.al., Paper: [http://arxiv.org/abs/2604.21928](http://arxiv.org/abs/2604.21928)
+- 2026-04-23, **Fine-Tuning Regimes Define Distinct Continual Learning Problems**, Paul-Tiberiu Iordache et.al., Paper: [http://arxiv.org/abs/2604.21927](http://arxiv.org/abs/2604.21927)
+- 2026-04-23, **Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**, Hao-Yu Hsu et.al., Paper: [http://arxiv.org/abs/2604.21926](http://arxiv.org/abs/2604.21926)
+- 2026-04-23, **Long-Horizon Manipulation via Trace-Conditioned VLA Planning**, Isabella Liu et.al., Paper: [http://arxiv.org/abs/2604.21924](http://arxiv.org/abs/2604.21924)
+- 2026-04-23, **Context Unrolling in Omni Models**, Ceyuan Yang et.al., Paper: [http://arxiv.org/abs/2604.21921](http://arxiv.org/abs/2604.21921)
+- 2026-04-23, **Wave physics as a choreographic notation for partner dance**, Fernando Ramiro-Manzano et.al., Paper: [http://arxiv.org/abs/2604.21918](http://arxiv.org/abs/2604.21918)
+- 2026-04-23, **Low-Rank Adaptation Redux for Large Models**, Bingcong Li et.al., Paper: [http://arxiv.org/abs/2604.21905](http://arxiv.org/abs/2604.21905)
+- 2026-04-23, **UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**, Yanran Zhang et.al., Paper: [http://arxiv.org/abs/2604.21904](http://arxiv.org/abs/2604.21904)
+- 2026-04-23, **A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**, Max Defez et.al., Paper: [http://arxiv.org/abs/2604.21903](http://arxiv.org/abs/2604.21903)
+- 2026-04-23, **GiVA: Gradient-Informed Bases for Vector-Based Adaptation**, Neeraj Gangwar et.al., Paper: [http://arxiv.org/abs/2604.21901](http://arxiv.org/abs/2604.21901)
+- 2026-04-23, **Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach**, Flávio Soriano et.al., Paper: [http://arxiv.org/abs/2604.21897](http://arxiv.org/abs/2604.21897)
+- 2026-04-23, **Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**, Chee Wei Tan et.al., Paper: [http://arxiv.org/abs/2604.21896](http://arxiv.org/abs/2604.21896)
+- 2026-04-23, **Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**, Maximilian Stralz et.al., Paper: [http://arxiv.org/abs/2604.21894](http://arxiv.org/abs/2604.21894)
+- 2026-04-23, **A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**, Praval Sharma et.al., Paper: [http://arxiv.org/abs/2604.21885](http://arxiv.org/abs/2604.21885)
+- 2026-04-23, **SPAC: Automating FPGA-based Network Switches with Protocol Adaptive Customization**, Guoyu Li et.al., Paper: [http://arxiv.org/abs/2604.21881](http://arxiv.org/abs/2604.21881)
+- 2026-04-23, **Gradual Voluntary Participation: A Framework for Participatory AI Governance in Journalism**, Matilde Barbini et.al., Paper: [http://arxiv.org/abs/2604.21878](http://arxiv.org/abs/2604.21878)
+- 2026-04-23, **Grounding Video Reasoning in Physical Signals**, Alibay Osmanli et.al., Paper: [http://arxiv.org/abs/2604.21873](http://arxiv.org/abs/2604.21873)
+- 2026-04-23, **Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**, Jiseon Kim et.al., Paper: [http://arxiv.org/abs/2604.21871](http://arxiv.org/abs/2604.21871)
+- 2026-04-23, **Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**, Kaitlin Gili et.al., Paper: [http://arxiv.org/abs/2604.21870](http://arxiv.org/abs/2604.21870)
 - 2026-04-19, **Polarized light Raman scattering by an atom near an ultrathin periodically aligned carbon nanotube film**, SK Firoz Islam et.al., Paper: [http://arxiv.org/abs/2604.17246](http://arxiv.org/abs/2604.17246)
 - 2026-04-19, **RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**, Rui Min et.al., Paper: [http://arxiv.org/abs/2604.17243](http://arxiv.org/abs/2604.17243)
 - 2026-04-19, **GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning**, Kun Wang et.al., Paper: [http://arxiv.org/abs/2604.17241](http://arxiv.org/abs/2604.17241)
@@ -6508,7 +6550,7 @@
 - 2026-02-26, **Beyond Vintage Rotation: Bias-Free Sparse Representation Learning with Oracle Inference**, Chengyu Cui et.al., Paper: [http://arxiv.org/abs/2602.22590](http://arxiv.org/abs/2602.22590)
 - 2026-02-26, **TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion**, Donghong Cai et.al., Paper: [http://arxiv.org/abs/2602.22586](http://arxiv.org/abs/2602.22586)
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

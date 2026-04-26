@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Single Object & Visual Language Tracking
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-22**|**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**|Kui Wu et.al.|[2604.20305](http://arxiv.org/abs/2604.20305)|null|
+|**2026-04-20**|**GOALS-JWST: Resolved multi-phase molecular gas in IRAS 20551-4250 using JWST and ALMA**|D. Kakkad et.al.|[2604.18671](http://arxiv.org/abs/2604.18671)|null|
 |**2026-04-17**|**The Qz5 Survey (II): Metallicity Evolution of Damped Lyα Systems Out to z $\sim$ 5**|Marie Wisz et.al.|[2604.16751](http://arxiv.org/abs/2604.16751)|null|
 |**2026-04-16**|**The Effect of External Photoevaporation on the Disk Fraction in M17**|Samuel Millstone et.al.|[2604.15506](http://arxiv.org/abs/2604.15506)|null|
 |**2026-04-16**|**Stellar nucleosynthesis in the era of large surveys: s-process polluted binaries in GALAH DR4**|A. Escorza et.al.|[2604.15197](http://arxiv.org/abs/2604.15197)|null|
@@ -2059,6 +2061,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**VistaBot: View-Robust Robot Manipulation via Spatiotemporal-Aware View Synthesis**|Songen Gu et.al.|[2604.21914](http://arxiv.org/abs/2604.21914)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**Testing solitonic boson star interpretations of Sagittarius A* with near-infrared flare astrometry**|Xiangyu Wang et.al.|[2604.21883](http://arxiv.org/abs/2604.21883)|null|
+|**2026-04-23**|**Extending Hamiltonian-Adaptive Resolution Simulation to Interfaces: An Updated LAMMPS Implementation and Application to Porous Solids**|Hari Haran Sudhakar et.al.|[2604.21867](http://arxiv.org/abs/2604.21867)|null|
+|**2026-04-23**|**Causality-Encoded Diffusion Models for Interventional Sampling and Edge Inference**|Li Chen et.al.|[2604.21843](http://arxiv.org/abs/2604.21843)|null|
+|**2026-04-23**|**Direct Problem for Gas Diffusion in Polar Firn with Variable Coefficients**|Sophie Moufawad et.al.|[2604.21821](http://arxiv.org/abs/2604.21821)|null|
+|**2026-04-23**|**Quotient-Space Diffusion Models**|Yixian Xu et.al.|[2604.21809](http://arxiv.org/abs/2604.21809)|null|
+|**2026-04-23**|**Turbulent mixing of a hydrogen jet in crossflow: direct numerical simulation and model assessment**|Yiqing Wang et.al.|[2604.21797](http://arxiv.org/abs/2604.21797)|null|
+|**2026-04-23**|**Reshoot-Anything: A Self-Supervised Model for In-the-Wild Video Reshooting**|Avinash Paliwal et.al.|[2604.21776](http://arxiv.org/abs/2604.21776)|null|
+|**2026-04-23**|**Local error estimates for a finite element method combining linear and nonlinear stabilization for the linear hyperbolic transport equation**|Erik Burman et.al.|[2604.21775](http://arxiv.org/abs/2604.21775)|null|
+|**2026-04-23**|**Novel dynamics for an inertial polar tracer in an active bath**|Jing-Bo Zeng et.al.|[2604.21762](http://arxiv.org/abs/2604.21762)|null|
+|**2026-04-23**|**Maximum principle and local stability for a class of coupled nonlinear thermo--reaction--phase systems**|Gossrin Jean-Marc Bomisso et.al.|[2604.21756](http://arxiv.org/abs/2604.21756)|null|
+|**2026-04-23**|**Stable and asymptotic preserving space-time discretizations of a linear kinetic transport equation in diffusive scaling**|Anita Gjesteland et.al.|[2604.21752](http://arxiv.org/abs/2604.21752)|null|
+|**2026-04-23**|**OptoCENTAL: a standardised, bench-testing platform based on phantoms for validating optical systems aimed at clinical monitoring of the placenta**|Luca Giannoni et.al.|[2604.21747](http://arxiv.org/abs/2604.21747)|null|
+|**2026-04-23**|**Segment convergence for super-linear stochastic functional differential equations by the truncated Euler-Maruyama method**|Shounian Deng et.al.|[2604.21704](http://arxiv.org/abs/2604.21704)|null|
+|**2026-04-23**|**StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition**|Kwan Yun et.al.|[2604.21689](http://arxiv.org/abs/2604.21689)|null|
+|**2026-04-23**|**Optimal control of therapies related to an oxytaxis glioblastoma model**|Juan J. Forero-Hernańdez et.al.|[2604.21674](http://arxiv.org/abs/2604.21674)|null|
+|**2026-04-23**|**Discontinuous transition in 2D Potts: II. Order-Order Interface convergence**|Moritz Dober et.al.|[2604.21669](http://arxiv.org/abs/2604.21669)|null|
+|**2026-04-23**|**Spectral Diffusion Mitigation with a Laser Pulse Sequence**|Kilian Unterguggenberger et.al.|[2604.21659](http://arxiv.org/abs/2604.21659)|null|
+|**2026-04-23**|**DCMorph: Face Morphing via Dual-Stream Cross-Attention Diffusion**|Tahar Chettaoui et.al.|[2604.21627](http://arxiv.org/abs/2604.21627)|null|
 |**2026-04-19**|**EmbodiedHead: Real-Time Listening and Speaking Avatar for Conversational Agents**|Yu Zhang et.al.|[2604.17211](http://arxiv.org/abs/2604.17211)|null|
 |**2026-04-19**|**SciDraw-6K: A Multilingual Scientific Illustration Dataset Generated by Google Gemini**|Davie Chen et.al.|[2604.17206](http://arxiv.org/abs/2604.17206)|null|
 |**2026-04-19**|**DreamShot: Personalized Storyboard Synthesis with Video Diffusion Prior**|Junjia Huang et.al.|[2604.17195](http://arxiv.org/abs/2604.17195)|null|
@@ -4284,6 +4306,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-23**|**Seeing Fast and Slow: Learning the Flow of Time in Videos**|Yen-Siang Wu et.al.|[2604.21931](http://arxiv.org/abs/2604.21931)|null|
+|**2026-04-23**|**Evaluation of Automatic Speech Recognition Using Generative Large Language Models**|Thibault Bañeras-Roux et.al.|[2604.21928](http://arxiv.org/abs/2604.21928)|null|
+|**2026-04-23**|**Fine-Tuning Regimes Define Distinct Continual Learning Problems**|Paul-Tiberiu Iordache et.al.|[2604.21927](http://arxiv.org/abs/2604.21927)|null|
+|**2026-04-23**|**Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs**|Hao-Yu Hsu et.al.|[2604.21926](http://arxiv.org/abs/2604.21926)|null|
+|**2026-04-23**|**Long-Horizon Manipulation via Trace-Conditioned VLA Planning**|Isabella Liu et.al.|[2604.21924](http://arxiv.org/abs/2604.21924)|null|
+|**2026-04-23**|**Context Unrolling in Omni Models**|Ceyuan Yang et.al.|[2604.21921](http://arxiv.org/abs/2604.21921)|null|
+|**2026-04-23**|**Wave physics as a choreographic notation for partner dance**|Fernando Ramiro-Manzano et.al.|[2604.21918](http://arxiv.org/abs/2604.21918)|null|
+|**2026-04-23**|**Low-Rank Adaptation Redux for Large Models**|Bingcong Li et.al.|[2604.21905](http://arxiv.org/abs/2604.21905)|null|
+|**2026-04-23**|**UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection**|Yanran Zhang et.al.|[2604.21904](http://arxiv.org/abs/2604.21904)|null|
+|**2026-04-23**|**A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models**|Max Defez et.al.|[2604.21903](http://arxiv.org/abs/2604.21903)|null|
+|**2026-04-23**|**GiVA: Gradient-Informed Bases for Vector-Based Adaptation**|Neeraj Gangwar et.al.|[2604.21901](http://arxiv.org/abs/2604.21901)|null|
+|**2026-04-23**|**Mapping the Political Discourse in the Brazilian Chamber of Deputies: A Multi-Faceted Computational Approach**|Flávio Soriano et.al.|[2604.21897](http://arxiv.org/abs/2604.21897)|null|
+|**2026-04-23**|**Nemobot Games: Crafting Strategic AI Gaming Agents for Interactive Learning with Large Language Models**|Chee Wei Tan et.al.|[2604.21896](http://arxiv.org/abs/2604.21896)|null|
+|**2026-04-23**|**Task-Driven Co-Design of Heterogeneous Multi-Robot Systems**|Maximilian Stralz et.al.|[2604.21894](http://arxiv.org/abs/2604.21894)|null|
+|**2026-04-23**|**A Multimodal Text- and Graph-Based Approach for Open-Domain Event Extraction from Documents**|Praval Sharma et.al.|[2604.21885](http://arxiv.org/abs/2604.21885)|null|
+|**2026-04-23**|**SPAC: Automating FPGA-based Network Switches with Protocol Adaptive Customization**|Guoyu Li et.al.|[2604.21881](http://arxiv.org/abs/2604.21881)|null|
+|**2026-04-23**|**Gradual Voluntary Participation: A Framework for Participatory AI Governance in Journalism**|Matilde Barbini et.al.|[2604.21878](http://arxiv.org/abs/2604.21878)|null|
+|**2026-04-23**|**Grounding Video Reasoning in Physical Signals**|Alibay Osmanli et.al.|[2604.21873](http://arxiv.org/abs/2604.21873)|null|
+|**2026-04-23**|**Machine Behavior in Relational Moral Dilemmas: Moral Rightness, Predicted Human Behavior, and Model Decisions**|Jiseon Kim et.al.|[2604.21871](http://arxiv.org/abs/2604.21871)|null|
+|**2026-04-23**|**Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning**|Kaitlin Gili et.al.|[2604.21870](http://arxiv.org/abs/2604.21870)|null|
 |**2026-04-19**|**Polarized light Raman scattering by an atom near an ultrathin periodically aligned carbon nanotube film**|SK Firoz Islam et.al.|[2604.17246](http://arxiv.org/abs/2604.17246)|null|
 |**2026-04-19**|**RemoteShield: Enable Robust Multimodal Large Language Models for Earth Observation**|Rui Min et.al.|[2604.17243](http://arxiv.org/abs/2604.17243)|null|
 |**2026-04-19**|**GaLa: Hypergraph-Guided Visual Language Models for Procedural Planning**|Kun Wang et.al.|[2604.17241](http://arxiv.org/abs/2604.17241)|null|
